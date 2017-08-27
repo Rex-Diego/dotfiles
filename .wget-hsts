@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>[:<port>]	<incl. subdomains>	<created>	<max-age>
+raw.githubusercontent.com	0	0	1452344349	31536000
+fedorahosted.org	0	1	1452345021	15768000
+github.com	0	1	1452344347	31536000

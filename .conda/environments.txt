@@ -1,0 +1,8 @@
+/Users/zhaoyu/.pyenv/versions/anaconda2-4.1.1/envs/nightly
+/Users/zhaoyu/soft/anaconda2/envs/nightly
+/Users/zhaoyu/soft/anaconda2/envs/python35
+/Users/zhaoyu/soft/anaconda2/envs/nightly
+/Users/zhaoyu/soft/anaconda2/envs/fuku
+/Users/zhaoyu/soft/anaconda2/envs/tensorflow
+/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly
+/Users/zhaoyu/soft/anaconda2/envs/uvcdat_210

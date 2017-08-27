@@ -1,0 +1,36 @@
+"3.5 (created: 2012/08/04 00:41:20)
+
+""source! "C:\\Documents and Settings\\Administrator\\_vimperatorrc.local"
+
+" vim: set ft=vimperator:
+map 0 g0
+map $ g$
+map s gT
+map x gt
+map p <M-S-e>
+map <M-Up> :set gui=all<CR>
+map <M-Down> :set gui=none<CR>
+map e :set gui=tabs,noaddons,nobookmarks,nomenu,nonavigation<CR>
+"map E :emenu Tools.WebClipper<CR>
+set editor='gvim -f'
+colorscheme solarized
+
+command -nargs=0 zzz :execute "!/usr/local/bin/you-get -p mpv " + content.location.href
+command -nargs=0 yyy :execute "!echo " + content.location.href
+
+set nextpattern=\s*下一页|下一张|下一篇|下页|后页\s*,^\bnext\b,\\bnext\\b,^>$,^(>>|»)$,^(>|»),(>|»)$,\\bmore\\b
+set previouspattern=\s*上一页|上一张|上一篇|上页|前页\s*,^\bprev|previous\b,\\bprev|previous\\b,^<$,^(<<|«)$,^(<|«),(<|«)$
+
+
+
+"set nextpattern=\s*(下一页>|下一页|下一张|下一章|下一篇|后一页|下页|后页)\s*,\bnext,^>$,^(>>|?)$,^(>|?),(>|?)$,\bmore\b
+"set previouspattern=\s*(<上一页|上一页|上一张|上一章|上一篇|前一页|上页|前页)\s*,\bprev|previous\b,^<$,^(<<|?)$,^(<|?),(<|?)$
+
+qmark g https://www.google.com.hk
+qmark m https://mail.qq.com
+qmark e https://app.yinxiang.com/Home.action
+qmark b http://www.baidu.com
+qmark d http://dict.cn
+qmark x http://www.xiami.com
+qmark n http://www.ncl.ucar.edu/Document/Functions/list_alpha.shtml
+qmark z http://www.zhihu.com
