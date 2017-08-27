@@ -1,0 +1,29 @@
+- clean: ['~','~/.config']
+
+- link:
+    ~/.SwitchHosts: .SwitchHosts
+    ~/.anaconda: .anaconda
+    ~/.aria2: .aria2
+    ~/.bash_profile: .bash_profile
+    ~/.conda: .conda
+    ~/.condarc: .condarc
+    ~/.config: .config
+    ~/.curlrc: .curlrc
+    ~/.emacs.d: .emacs.d
+    ~/.git: .git
+    ~/.gitconfig: .gitconfig
+    ~/.gitmodules: .gitmodules
+    ~/.htoprc: .htoprc
+    ~/.ipython: .ipython
+    ~/.jupyter: .jupyter
+    ~/.matplotlib: .matplotlib
+    ~/.mplayer: .mplayer
+    ~/.oh-my-zsh: .oh-my-zsh
+    ~/.vifm: .vifm
+    ~/.vim: .vim
+    ~/.vimperator: .vimperator
+    ~/.vimperatorrc: .vimperatorrc
+    ~/.vimrc: .vimrc
+    ~/.wget-hsts: .wget-hsts
+    ~/.zsh-update: .zsh-update
+    ~/.zshrc: .zshrc
