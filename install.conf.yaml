@@ -1,4 +1,4 @@
-- clean: ['~','~/.config']
+- clean: ['~']
 
 - link:
     ~/.SwitchHosts: .SwitchHosts
@@ -19,6 +19,7 @@
     ~/.matplotlib: .matplotlib
     ~/.mplayer: .mplayer
     ~/.oh-my-zsh: .oh-my-zsh
+    ~/.screenrc: .screenrc
     ~/.vifm: .vifm
     ~/.vim: .vim
     ~/.vimperator: .vimperator
