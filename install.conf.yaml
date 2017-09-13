@@ -20,6 +20,7 @@
     ~/.mplayer: .mplayer
     ~/.oh-my-zsh: .oh-my-zsh
     ~/.screenrc: .screenrc
+    ~/.spacemacs.d: .spacemacs.d
     ~/.vifm: .vifm
     ~/.vim: .vim
     ~/.vimperator: .vimperator
