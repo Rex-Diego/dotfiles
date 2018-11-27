@@ -1,7 +1,6 @@
 - clean: ['~']
 
 - link:
-    ~/.SwitchHosts: .SwitchHosts
     ~/.anaconda: .anaconda
     ~/.aria2: .aria2
     ~/.bash_profile: .bash_profile
@@ -13,11 +12,11 @@
     ~/.git: .git
     ~/.gitconfig: .gitconfig
     ~/.gitmodules: .gitmodules
+    ~/.gitignore_global: .gitignore_global
     ~/.htoprc: .htoprc
     ~/.ipython: .ipython
     ~/.jupyter: .jupyter
     ~/.matplotlib: .matplotlib
-    ~/.mplayer: .mplayer
     ~/.oh-my-zsh: .oh-my-zsh
     ~/.screenrc: .screenrc
     ~/.spacemacs.d: .spacemacs.d
@@ -26,6 +25,5 @@
     ~/.vimperator: .vimperator
     ~/.vimperatorrc: .vimperatorrc
     ~/.vimrc: .vimrc
-    ~/.wget-hsts: .wget-hsts
-    ~/.zsh-update: .zsh-update
     ~/.zshrc: .zshrc
+    ~/.ssh_config: ".ssh_config"

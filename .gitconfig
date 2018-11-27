@@ -1,3 +1,5 @@
 [user]
 	name = Rex-Diego
 	email = rex05@foxmail.com
+[core]
+	excludesfile = /Users/zhaoyu/.gitignore_global

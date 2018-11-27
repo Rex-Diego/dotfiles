@@ -1,0 +1,28 @@
+#Host lym_loop
+    #HostName 159.226.113.51
+    #HostName  2682417459
+    #User dam
+##    IdentityFile ~/.ssh/id_rsa_lym
+##Host 159.226.113.51
+##    IdentityFile ~/.ssh/id_rsa_lym
+#Host zy_loop
+    #HostName 2886729800
+    #ProxyCommand ssh -Y dam@2682417459 -W %h:%p
+    #User zy
+
+
+Host *
+    #---------------------------------------------------------------
+    # setting for keeping connecting to avoid not drop line
+    # ---------------------------------------------------------------
+    ServerAliveCountMax 30
+    ServerAliveInterval 20
+    TCPKeepAlive yes
+    #---------------------------------------------------------------
+    # setting for long time connecting
+    #---------------------------------------------------------------
+Host *
+    XAuthLocation /opt/X11/bin/xauth
+    ControlPersist 05h
+    ControlMaster auto
+    ControlPath /tmp/ssh_mux_%h_%p_%r
