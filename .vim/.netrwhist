@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/zhaoyu/.vimperator'
 let g:netrw_dirhist_2='/Users/zhaoyu/data/index'
+let g:netrw_dirhist_3='/Users/zhaoyu/Rex-Diego/.dotfiles/.vimperator'
+let g:netrw_dirhist_4='/Users/zhaoyu/.vimperator'

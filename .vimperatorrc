@@ -4,12 +4,18 @@
 
 " vim: set ft=vimperator:
 map p <M-S-e>
-map s gT
-map x gt
-map <M-Up> :set gui=all<CR>
-map <M-Down> :set gui=none<CR>
-map e :set gui=tabs,noaddons,nobookmarks,nomenu,nonavigation<CR>
+map J gT
+map K gt
+"unmap d
+"map x d
+
+map <M-Down> :set gui=all<CR>
+map <M-Up> :set gui=tabs,noaddons,nobookmarks,nomenu,nonavigation<CR>
+
+"map <M-Down> :set gui=none<CR>
+"map e :set gui=tabs,noaddons,nobookmarks,nomenu,nonavigation<CR>
 "map E :emenu Tools.WebClipper<CR>
+
 set editor='gvim -f'
 colorscheme solarized
 

@@ -25,7 +25,7 @@ Voblique
 p12
 sS'name'
 p13
-VBitstream Vera Sans
+VBitstream Vera Sans Mono
 p14
 sS'weight'
 p15
@@ -39,7 +39,7 @@ p18
 g17
 sS'fname'
 p19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraIt.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMoIt.ttf
 p20
 sS'size'
 p21
@@ -51,11 +51,31 @@ g3
 NtRp23
 (dp24
 g11
-Vitalic
-p25
+g17
 sg13
-VSTIXGeneral
+VSTIXSizeFourSym
+p25
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf
 p26
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp27
+(dp28
+g11
+g17
+sg13
+VBitstream Vera Sans Mono
+p29
 sg15
 I700
 sg16
@@ -63,20 +83,20 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf
-p27
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMoBd.ttf
+p30
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp28
-(dp29
+NtRp31
+(dp32
 g11
 g17
 sg13
 Vcmss10
-p30
+p33
 sg15
 I400
 sg16
@@ -84,188 +104,20 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf
-p31
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp32
-(dp33
-g11
-g17
-sg13
-Vcmex10
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf
 p34
-sg15
-I400
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf
-p35
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp36
-(dp37
-g11
-g17
-sg13
-VSTIXSizeOneSym
-p38
-sg15
-I700
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf
-p39
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp40
-(dp41
-g11
-g17
-sg13
-Vcmb10
-p42
-sg15
-I400
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf
-p43
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp44
-(dp45
-g11
-g17
-sg13
-VBitstream Vera Sans
-p46
-sg15
-I700
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraBd.ttf
-p47
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp48
-(dp49
-g11
-g17
-sg13
-VBitstream Vera Serif
-p50
-sg15
-I700
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraSeBd.ttf
-p51
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp52
-(dp53
-g11
-g17
-sg13
-VSTIXSizeFourSym
-p54
-sg15
-I400
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf
-p55
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp56
-(dp57
-g11
-g17
-sg13
-VSTIXSizeTwoSym
-p58
-sg15
-I400
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf
-p59
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp60
-(dp61
-g11
-g25
-sg13
-VSTIXNonUnicode
-p62
-sg15
-I700
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf
-p63
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp64
-(dp65
+NtRp35
+(dp36
 g11
 g12
 sg13
-VBitstream Vera Sans Mono
-p66
+VBitstream Vera Sans
+p37
 sg15
 I700
 sg16
@@ -273,41 +125,20 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMoBI.ttf
-p67
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraBI.ttf
+p38
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp68
-(dp69
-g11
-g17
-sg13
-VSTIXSizeTwoSym
-p70
-sg15
-I700
-sg16
-g17
-sg18
-g17
-sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf
-p71
-sg21
-g22
-sbag1
-(g8
-g3
-NtRp72
-(dp73
+NtRp39
+(dp40
 g11
 g17
 sg13
 VSTIXSizeThreeSym
-p74
+p41
 sg15
 I400
 sg16
@@ -315,62 +146,62 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf
-p75
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf
+p42
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp76
-(dp77
+NtRp43
+(dp44
 g11
-g12
+g17
 sg13
-VBitstream Vera Sans
-p78
+VSTIXNonUnicode
+p45
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraBI.ttf
-p79
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf
+p46
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp80
-(dp81
+NtRp47
+(dp48
 g11
 g17
 sg13
-VSTIXGeneral
-p82
+Vcmmi10
+p49
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf
-p83
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf
+p50
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp84
-(dp85
+NtRp51
+(dp52
 g11
 g17
 sg13
 VSTIXSizeFiveSym
-p86
+p53
 sg15
 I400
 sg16
@@ -378,20 +209,20 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf
-p87
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf
+p54
 sg21
 g22
 sbag1
 (g8
 g3
-NtRp88
-(dp89
+NtRp55
+(dp56
 g11
 g17
 sg13
-Vcmtt10
-p90
+VSTIXGeneral
+p57
 sg15
 I400
 sg16
@@ -399,7 +230,176 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf
+p58
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp59
+(dp60
+g11
+g17
+sg13
+Vcmb10
+p61
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf
+p62
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp63
+(dp64
+g11
+g17
+sg13
+VSTIXSizeThreeSym
+p65
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf
+p66
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp67
+(dp68
+g11
+g17
+sg13
+VBitstream Vera Serif
+p69
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraSeBd.ttf
+p70
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp71
+(dp72
+g11
+g17
+sg13
+VSTIXSizeTwoSym
+p73
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf
+p74
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp75
+(dp76
+g11
+g17
+sg13
+VSTIXSizeFourSym
+p77
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf
+p78
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp79
+(dp80
+g11
+g17
+sg13
+VBitstream Vera Sans
+p81
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraBd.ttf
+p82
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp83
+(dp84
+g11
+g17
+sg13
+VSTIXGeneral
+p85
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf
+p86
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp87
+(dp88
+g11
+Vitalic
+p89
+sg13
+VSTIXNonUnicode
+p90
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf
 p91
 sg21
 g22
@@ -409,9 +409,9 @@ g3
 NtRp92
 (dp93
 g11
-g17
+g89
 sg13
-Vcmr10
+VSTIXGeneral
 p94
 sg15
 I400
@@ -420,7 +420,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf
 p95
 sg21
 g22
@@ -432,7 +432,7 @@ NtRp96
 g11
 g17
 sg13
-VSTIXNonUnicode
+VBitstream Vera Serif
 p98
 sg15
 I400
@@ -441,7 +441,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraSe.ttf
 p99
 sg21
 g22
@@ -453,7 +453,7 @@ NtRp100
 g11
 g17
 sg13
-Vcmmi10
+VSTIXSizeOneSym
 p102
 sg15
 I400
@@ -462,7 +462,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf
 p103
 sg21
 g22
@@ -472,18 +472,18 @@ g3
 NtRp104
 (dp105
 g11
-g25
+g17
 sg13
-VSTIXNonUnicode
+VSTIXSizeTwoSym
 p106
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf
 p107
 sg21
 g22
@@ -493,18 +493,18 @@ g3
 NtRp108
 (dp109
 g11
-g17
+g89
 sg13
-VBitstream Vera Sans Mono
+VSTIXNonUnicode
 p110
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMoBd.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf
 p111
 sg21
 g22
@@ -514,9 +514,9 @@ g3
 NtRp112
 (dp113
 g11
-g25
+g17
 sg13
-VSTIXGeneral
+Vcmtt10
 p114
 sg15
 I400
@@ -525,7 +525,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf
 p115
 sg21
 g22
@@ -535,18 +535,18 @@ g3
 NtRp116
 (dp117
 g11
-g12
+g17
 sg13
-VBitstream Vera Sans Mono
+VSTIXSizeOneSym
 p118
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMoIt.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf
 p119
 sg21
 g22
@@ -558,7 +558,7 @@ NtRp120
 g11
 g17
 sg13
-VSTIXSizeOneSym
+VBitstream Vera Sans
 p122
 sg15
 I400
@@ -567,7 +567,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/Vera.ttf
 p123
 sg21
 g22
@@ -579,7 +579,7 @@ NtRp124
 g11
 g17
 sg13
-VBitstream Vera Serif
+Vcmr10
 p126
 sg15
 I400
@@ -588,7 +588,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraSe.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf
 p127
 sg21
 g22
@@ -600,7 +600,7 @@ NtRp128
 g11
 g17
 sg13
-VBitstream Vera Sans
+Vcmsy10
 p130
 sg15
 I400
@@ -609,7 +609,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/Vera.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf
 p131
 sg21
 g22
@@ -619,18 +619,18 @@ g3
 NtRp132
 (dp133
 g11
-g17
+g12
 sg13
-Vcmsy10
+VBitstream Vera Sans Mono
 p134
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMoBI.ttf
 p135
 sg21
 g22
@@ -642,16 +642,16 @@ NtRp136
 g11
 g17
 sg13
-VSTIXGeneral
+VSTIXNonUnicode
 p138
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf
 p139
 sg21
 g22
@@ -661,9 +661,9 @@ g3
 NtRp140
 (dp141
 g11
-g17
+g12
 sg13
-VBitstream Vera Sans Mono
+VBitstream Vera Sans
 p142
 sg15
 I400
@@ -672,7 +672,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMono.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraIt.ttf
 p143
 sg21
 g22
@@ -684,16 +684,16 @@ NtRp144
 g11
 g17
 sg13
-VSTIXSizeThreeSym
+Vcmex10
 p146
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf
 p147
 sg21
 g22
@@ -705,16 +705,16 @@ NtRp148
 g11
 g17
 sg13
-VSTIXNonUnicode
+VBitstream Vera Sans Mono
 p150
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/VeraMono.ttf
 p151
 sg21
 g22
@@ -724,9 +724,9 @@ g3
 NtRp152
 (dp153
 g11
-g17
+g89
 sg13
-VSTIXSizeFourSym
+VSTIXGeneral
 p154
 sg15
 I700
@@ -735,7 +735,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf
 p155
 sg21
 g22
@@ -745,7 +745,7 @@ g3
 NtRp156
 (dp157
 g11
-g25
+g89
 sg13
 VTrebuchet MS
 p158
@@ -1082,7 +1082,7 @@ g3
 NtRp221
 (dp222
 g11
-g25
+g89
 sg13
 VLiberation Mono for Powerline
 p223
@@ -1124,9 +1124,9 @@ g3
 NtRp229
 (dp230
 g11
-g12
+g17
 sg13
-VDejaVu Sans Mono for Powerline
+VSerto Kharput
 p231
 sg15
 I400
@@ -1135,7 +1135,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/DejaVu Sans Mono Oblique for Powerline.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMKharput.otf
 p232
 sg21
 g22
@@ -1147,7 +1147,7 @@ NtRp233
 g11
 g12
 sg13
-VLuxi Serif
+VDejaVu Sans Mono for Powerline
 p235
 sg15
 I400
@@ -1156,7 +1156,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luxirri.ttf
+V/Users/zhaoyu/Library/Fonts/DejaVu Sans Mono Oblique for Powerline.ttf
 p236
 sg21
 g22
@@ -1168,7 +1168,7 @@ NtRp237
 g11
 g17
 sg13
-VEstrangelo Nisibin
+VTeamViewer13
 p239
 sg15
 I400
@@ -1177,7 +1177,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMNisibin.otf
+V/Library/Fonts/TeamViewer13.otf
 p240
 sg21
 g22
@@ -1189,7 +1189,7 @@ NtRp241
 g11
 g17
 sg13
-VLiSong Pro
+VEstrangelo Nisibin
 p243
 sg15
 I400
@@ -1198,7 +1198,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/\u5137\u5b8b Pro.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMNisibin.otf
 p244
 sg21
 g22
@@ -1210,7 +1210,7 @@ NtRp245
 g11
 g17
 sg13
-VArial
+VLiSong Pro
 p247
 sg15
 I400
@@ -1219,7 +1219,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial.ttf
+V/Library/Fonts/\u5137\u5b8b Pro.ttf
 p248
 sg21
 g22
@@ -1231,16 +1231,16 @@ NtRp249
 g11
 g17
 sg13
-VSource Code Pro for Powerline
+VArial
 p251
 sg15
-I900
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Black.otf
+V/Library/Fonts/Arial.ttf
 p252
 sg21
 g22
@@ -1252,16 +1252,16 @@ NtRp253
 g11
 g17
 sg13
-VRoboto Mono Light for Powerline
+VSource Code Pro for Powerline
 p255
 sg15
-I200
+I900
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Light for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Black.otf
 p256
 sg21
 g22
@@ -1273,16 +1273,16 @@ NtRp257
 g11
 g17
 sg13
-VAppleGothic
+VRoboto Mono Light for Powerline
 p259
 sg15
-I400
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/AppleGothic.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Light for Powerline.ttf
 p260
 sg21
 g22
@@ -1294,16 +1294,16 @@ NtRp261
 g11
 g17
 sg13
-VYuGothic
+VAppleGothic
 p263
 sg15
-I500
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Yu Gothic Medium.otf
+V/Library/Fonts/AppleGothic.ttf
 p264
 sg21
 g22
@@ -1315,16 +1315,16 @@ NtRp265
 g11
 g17
 sg13
-VArial Narrow
+VKaiTi
 p267
 sg15
 I400
 sg16
-g215
+g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Narrow.ttf
+V/Users/zhaoyu/Library/Fonts/simkai.ttf
 p268
 sg21
 g22
@@ -1336,16 +1336,16 @@ NtRp269
 g11
 g17
 sg13
-VLuxi Mono
+VYuGothic
 p271
 sg15
-I700
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/TTF/luximb.ttf
+V/Library/Fonts/Yu Gothic Medium.otf
 p272
 sg21
 g22
@@ -1357,16 +1357,16 @@ NtRp273
 g11
 g17
 sg13
-VFira Mono Medium for Powerline
+VArial Narrow
 p275
 sg15
-I500
+I400
 sg16
-g17
+g215
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/FuraMono-Medium Powerline.otf
+V/Library/Fonts/Arial Narrow.ttf
 p276
 sg21
 g22
@@ -1378,7 +1378,7 @@ NtRp277
 g11
 g17
 sg13
-VSystem Font
+VSimSun-ExtB
 p279
 sg15
 I400
@@ -1387,7 +1387,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Medium.otf
+V/Users/zhaoyu/Library/Fonts/simsunb.ttf
 p280
 sg21
 g22
@@ -1399,7 +1399,7 @@ NtRp281
 g11
 g17
 sg13
-VSerto Batnan
+VLuxi Mono
 p283
 sg15
 I700
@@ -1408,7 +1408,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMBatnanBold.otf
+V/usr/X11/lib/X11/fonts/TTF/luximb.ttf
 p284
 sg21
 g22
@@ -1418,9 +1418,9 @@ g3
 NtRp285
 (dp286
 g11
-g17
+g12
 sg13
-VAppleMyungjo
+VLuxi Serif
 p287
 sg15
 I400
@@ -1429,7 +1429,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/AppleMyungjo.ttf
+V/usr/X11R6/lib/X11/fonts/TTF/luxirri.ttf
 p288
 sg21
 g22
@@ -1439,18 +1439,18 @@ g3
 NtRp289
 (dp290
 g11
-g25
+g17
 sg13
-VAnonymous Pro for Powerline
+VFira Mono Medium for Powerline
 p291
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Anonymice Powerline Italic.ttf
+V/Users/zhaoyu/Library/Fonts/FuraMono-Medium Powerline.otf
 p292
 sg21
 g22
@@ -1462,16 +1462,16 @@ NtRp293
 g11
 g17
 sg13
-VSerto Mardin
+VSystem Font
 p295
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMMardinBold.otf
+V/System/Library/Fonts/SFNSDisplay-Medium.otf
 p296
 sg21
 g22
@@ -1483,16 +1483,16 @@ NtRp297
 g11
 g17
 sg13
-VMishafi Gold
+VSerto Batnan
 p299
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Mishafi Gold.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMBatnanBold.otf
 p300
 sg21
 g22
@@ -1504,7 +1504,7 @@ NtRp301
 g11
 g17
 sg13
-VSerto Jerusalem Outline
+VAppleMyungjo
 p303
 sg15
 I400
@@ -1513,7 +1513,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalemOutline.otf
+V/Library/Fonts/AppleMyungjo.ttf
 p304
 sg21
 g22
@@ -1523,9 +1523,9 @@ g3
 NtRp305
 (dp306
 g11
-g17
+g89
 sg13
-VZapf Dingbats
+VAnonymous Pro for Powerline
 p307
 sg15
 I400
@@ -1534,7 +1534,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/ZapfDingbats.ttf
+V/Users/zhaoyu/Library/Fonts/Anonymice Powerline Italic.ttf
 p308
 sg21
 g22
@@ -1546,16 +1546,16 @@ NtRp309
 g11
 g17
 sg13
-VMeslo LG M DZ for Powerline
+VSerto Mardin
 p311
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Meslo LG M DZ Regular for Powerline.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMMardinBold.otf
 p312
 sg21
 g22
@@ -1567,7 +1567,7 @@ NtRp313
 g11
 g17
 sg13
-VArimo for Powerline
+VMishafi Gold
 p315
 sg15
 I400
@@ -1576,7 +1576,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Arimo for Powerline.ttf
+V/Library/Fonts/Mishafi Gold.ttf
 p316
 sg21
 g22
@@ -1588,16 +1588,16 @@ NtRp317
 g11
 g17
 sg13
-VSTIXIntegralsD
+VSerto Jerusalem Outline
 p319
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntDBol.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalemOutline.otf
 p320
 sg21
 g22
@@ -1609,7 +1609,7 @@ NtRp321
 g11
 g17
 sg13
-VHack
+VZapf Dingbats
 p323
 sg15
 I400
@@ -1618,7 +1618,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Hack-Regular.ttf
+V/System/Library/Fonts/ZapfDingbats.ttf
 p324
 sg21
 g22
@@ -1630,16 +1630,16 @@ NtRp325
 g11
 g17
 sg13
-VRoboto Mono Medium for Powerline
+VMeslo LG M DZ for Powerline
 p327
 sg15
-I500
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Medium for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Meslo LG M DZ Regular for Powerline.otf
 p328
 sg21
 g22
@@ -1651,7 +1651,7 @@ NtRp329
 g11
 g17
 sg13
-VSystem Font
+VArimo for Powerline
 p331
 sg15
 I400
@@ -1660,7 +1660,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldItalicG2.otf
+V/Users/zhaoyu/Library/Fonts/Arimo for Powerline.ttf
 p332
 sg21
 g22
@@ -1672,16 +1672,16 @@ NtRp333
 g11
 g17
 sg13
-VDIN Alternate
+VSimHei
 p335
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/DIN Alternate Bold.ttf
+V/Users/zhaoyu/Library/Fonts/simhei.ttf
 p336
 sg21
 g22
@@ -1693,16 +1693,16 @@ NtRp337
 g11
 g17
 sg13
-VDroid Sans Mono Slashed for Powerline
+VSTIXIntegralsD
 p339
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Droid Sans Mono Slashed for Powerline.ttf
+V/Library/Fonts/STIXIntDBol.otf
 p340
 sg21
 g22
@@ -1714,16 +1714,16 @@ NtRp341
 g11
 g17
 sg13
-VSTIXSizeThreeSym
+VHack
 p343
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizThreeSymBol.otf
+V/Users/zhaoyu/Library/Fonts/Hack-Regular.ttf
 p344
 sg21
 g22
@@ -1735,16 +1735,16 @@ NtRp345
 g11
 g17
 sg13
-VRoboto Mono Thin for Powerline
+VRoboto Mono Medium for Powerline
 p347
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Thin for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Medium for Powerline.ttf
 p348
 sg21
 g22
@@ -1754,18 +1754,18 @@ g3
 NtRp349
 (dp350
 g11
-g12
+g17
 sg13
-VLuxi Serif
+VSystem Font
 p351
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luxirbi.ttf
+V/System/Library/Fonts/SFNSText-BoldItalicG2.otf
 p352
 sg21
 g22
@@ -1777,16 +1777,16 @@ NtRp353
 g11
 g17
 sg13
-VCourier New
+VDIN Alternate
 p355
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Courier New.ttf
+V/Library/Fonts/DIN Alternate Bold.ttf
 p356
 sg21
 g22
@@ -1796,18 +1796,18 @@ g3
 NtRp357
 (dp358
 g11
-g25
+g17
 sg13
-VArial Narrow
+VDroid Sans Mono Slashed for Powerline
 p359
 sg15
-I700
+I400
 sg16
-g215
+g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Narrow Bold Italic.ttf
+V/Users/zhaoyu/Library/Fonts/Droid Sans Mono Slashed for Powerline.ttf
 p360
 sg21
 g22
@@ -1819,7 +1819,7 @@ NtRp361
 g11
 g17
 sg13
-VRoboto Mono for Powerline
+VSTIXSizeThreeSym
 p363
 sg15
 I700
@@ -1828,7 +1828,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Bold for Powerline.ttf
+V/Library/Fonts/STIXSizThreeSymBol.otf
 p364
 sg21
 g22
@@ -1840,7 +1840,7 @@ NtRp365
 g11
 g17
 sg13
-VLuminari
+VRoboto Mono Thin for Powerline
 p367
 sg15
 I400
@@ -1849,7 +1849,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Luminari.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Thin for Powerline.ttf
 p368
 sg21
 g22
@@ -1859,18 +1859,18 @@ g3
 NtRp369
 (dp370
 g11
-g17
+g12
 sg13
-VZapfino
+VLuxi Serif
 p371
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Zapfino.ttf
+V/usr/X11R6/lib/X11/fonts/TTF/luxirbi.ttf
 p372
 sg21
 g22
@@ -1882,16 +1882,16 @@ NtRp373
 g11
 g17
 sg13
-VArial Narrow
+VCourier New
 p375
 sg15
-I700
+I400
 sg16
-g215
+g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Narrow Bold.ttf
+V/Library/Fonts/Courier New.ttf
 p376
 sg21
 g22
@@ -1901,18 +1901,18 @@ g3
 NtRp377
 (dp378
 g11
-g25
+g89
 sg13
-VTimes New Roman
+VArial Narrow
 p379
 sg15
-I500
+I700
 sg16
-g17
+g215
 sg18
 g17
 sg19
-V/Library/Fonts/Times New Roman Italic.ttf
+V/Library/Fonts/Arial Narrow Bold Italic.ttf
 p380
 sg21
 g22
@@ -1924,16 +1924,16 @@ NtRp381
 g11
 g17
 sg13
-VKrungthep
+VRoboto Mono for Powerline
 p383
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Krungthep.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Bold for Powerline.ttf
 p384
 sg21
 g22
@@ -1945,7 +1945,7 @@ NtRp385
 g11
 g17
 sg13
-VSystem Font
+VLuminari
 p387
 sg15
 I400
@@ -1954,7 +1954,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularItalic.otf
+V/Library/Fonts/Luminari.ttf
 p388
 sg21
 g22
@@ -1964,9 +1964,9 @@ g3
 NtRp389
 (dp390
 g11
-g25
+g17
 sg13
-VArimo for Powerline
+VZapfino
 p391
 sg15
 I400
@@ -1975,7 +1975,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Arimo Italic for Powerline.ttf
+V/Library/Fonts/Zapfino.ttf
 p392
 sg21
 g22
@@ -1987,16 +1987,16 @@ NtRp393
 g11
 g17
 sg13
-VCousine for Powerline
+VArial Narrow
 p395
 sg15
-I400
+I700
 sg16
-g17
+g215
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Cousine for Powerline.ttf
+V/Library/Fonts/Arial Narrow Bold.ttf
 p396
 sg21
 g22
@@ -2006,18 +2006,18 @@ g3
 NtRp397
 (dp398
 g11
-g17
+g89
 sg13
-VSystem Font
+VTimes New Roman
 p399
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularG2.otf
+V/Library/Fonts/Times New Roman Italic.ttf
 p400
 sg21
 g22
@@ -2027,18 +2027,18 @@ g3
 NtRp401
 (dp402
 g11
-g25
+g17
 sg13
-VTinos for Powerline
+VKrungthep
 p403
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Tinos Bold Italic for Powerline.ttf
+V/Library/Fonts/Krungthep.ttf
 p404
 sg21
 g22
@@ -2050,7 +2050,7 @@ NtRp405
 g11
 g17
 sg13
-VGeorgia
+VSystem Font
 p407
 sg15
 I400
@@ -2059,7 +2059,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Georgia.ttf
+V/System/Library/Fonts/SFNSText-RegularItalic.otf
 p408
 sg21
 g22
@@ -2069,9 +2069,9 @@ g3
 NtRp409
 (dp410
 g11
-g17
+g89
 sg13
-VSystem Font
+VArimo for Powerline
 p411
 sg15
 I400
@@ -2080,7 +2080,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-Medium.otf
+V/Users/zhaoyu/Library/Fonts/Arimo Italic for Powerline.ttf
 p412
 sg21
 g22
@@ -2092,16 +2092,16 @@ NtRp413
 g11
 g17
 sg13
-VSTIXIntegralsSm
+VCousine for Powerline
 p415
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntSmBol.otf
+V/Users/zhaoyu/Library/Fonts/Cousine for Powerline.ttf
 p416
 sg21
 g22
@@ -2113,7 +2113,7 @@ NtRp417
 g11
 g17
 sg13
-VDiwan Thuluth
+VSystem Font
 p419
 sg15
 I400
@@ -2122,7 +2122,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Diwan Thuluth.ttf
+V/System/Library/Fonts/SFNSText-RegularG2.otf
 p420
 sg21
 g22
@@ -2132,9 +2132,9 @@ g3
 NtRp421
 (dp422
 g11
-g17
+g89
 sg13
-VTrebuchet MS
+VTinos for Powerline
 p423
 sg15
 I700
@@ -2143,7 +2143,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Trebuchet MS Bold.ttf
+V/Users/zhaoyu/Library/Fonts/Tinos Bold Italic for Powerline.ttf
 p424
 sg21
 g22
@@ -2155,16 +2155,16 @@ NtRp425
 g11
 g17
 sg13
-VHack
+VGeorgia
 p427
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Hack-Bold.ttf
+V/Library/Fonts/Georgia.ttf
 p428
 sg21
 g22
@@ -2176,7 +2176,7 @@ NtRp429
 g11
 g17
 sg13
-VInconsolata for Powerline
+VSystem Font
 p431
 sg15
 I400
@@ -2185,7 +2185,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Inconsolata for Powerline.otf
+V/System/Library/Fonts/SFNSText-Medium.otf
 p432
 sg21
 g22
@@ -2197,16 +2197,16 @@ NtRp433
 g11
 g17
 sg13
-VSource Code Pro
+VSTIXIntegralsSm
 p435
 sg15
-I500
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-Medium.ttf
+V/Library/Fonts/STIXIntSmBol.otf
 p436
 sg21
 g22
@@ -2218,7 +2218,7 @@ NtRp437
 g11
 g17
 sg13
-VSerto Mardin
+VDiwan Thuluth
 p439
 sg15
 I400
@@ -2227,7 +2227,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMMardin.otf
+V/Library/Fonts/Diwan Thuluth.ttf
 p440
 sg21
 g22
@@ -2239,16 +2239,16 @@ NtRp441
 g11
 g17
 sg13
-VSystem Font
+VTrebuchet MS
 p443
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldG1.otf
+V/Library/Fonts/Trebuchet MS Bold.ttf
 p444
 sg21
 g22
@@ -2260,16 +2260,16 @@ NtRp445
 g11
 g17
 sg13
-VSymbol Neu for Powerline
+VHack
 p447
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Symbol Neu for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Hack-Bold.ttf
 p448
 sg21
 g22
@@ -2281,16 +2281,16 @@ NtRp449
 g11
 g17
 sg13
-VDejaVu Sans Mono for Powerline
+VInconsolata for Powerline
 p451
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/DejaVu Sans Mono Bold for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Inconsolata for Powerline.otf
 p452
 sg21
 g22
@@ -2302,16 +2302,16 @@ NtRp453
 g11
 g17
 sg13
-VBradley Hand
+VSource Code Pro
 p455
 sg15
-I700
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Bradley Hand Bold.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-Medium.ttf
 p456
 sg21
 g22
@@ -2323,7 +2323,7 @@ NtRp457
 g11
 g17
 sg13
-VSystem Font
+VSerto Mardin
 p459
 sg15
 I400
@@ -2332,7 +2332,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-SemiboldItalic.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMMardin.otf
 p460
 sg21
 g22
@@ -2344,7 +2344,7 @@ NtRp461
 g11
 g17
 sg13
-VMeslo LG S DZ for Powerline
+VSystem Font
 p463
 sg15
 I400
@@ -2353,7 +2353,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Meslo LG S DZ Regular for Powerline.otf
+V/System/Library/Fonts/SFNSText-BoldG1.otf
 p464
 sg21
 g22
@@ -2365,7 +2365,7 @@ NtRp465
 g11
 g17
 sg13
-VInconsolata-g for Powerline
+VSymbol Neu for Powerline
 p467
 sg15
 I400
@@ -2374,7 +2374,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Inconsolata-g for Powerline.otf
+V/Users/zhaoyu/Library/Fonts/Symbol Neu for Powerline.ttf
 p468
 sg21
 g22
@@ -2384,9 +2384,9 @@ g3
 NtRp469
 (dp470
 g11
-g25
+g17
 sg13
-VTimes New Roman
+VDejaVu Sans Mono for Powerline
 p471
 sg15
 I700
@@ -2395,7 +2395,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Times New Roman Bold Italic.ttf
+V/Users/zhaoyu/Library/Fonts/DejaVu Sans Mono Bold for Powerline.ttf
 p472
 sg21
 g22
@@ -2405,18 +2405,18 @@ g3
 NtRp473
 (dp474
 g11
-g25
+g17
 sg13
-VArial Narrow
+VBradley Hand
 p475
 sg15
-I400
+I700
 sg16
-g215
+g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Narrow Italic.ttf
+V/Library/Fonts/Bradley Hand Bold.ttf
 p476
 sg21
 g22
@@ -2426,18 +2426,18 @@ g3
 NtRp477
 (dp478
 g11
-g25
+g17
 sg13
-VArimo for Powerline
+VSystem Font
 p479
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Arimo Bold Italic for Powerline.ttf
+V/System/Library/Fonts/SFNSText-SemiboldItalic.otf
 p480
 sg21
 g22
@@ -2449,16 +2449,16 @@ NtRp481
 g11
 g17
 sg13
-VArimo for Powerline
+VMeslo LG S DZ for Powerline
 p483
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Arimo Bold for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Meslo LG S DZ Regular for Powerline.otf
 p484
 sg21
 g22
@@ -2470,7 +2470,7 @@ NtRp485
 g11
 g17
 sg13
-VLuxi Mono
+VInconsolata-g for Powerline
 p487
 sg15
 I400
@@ -2479,7 +2479,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luximr.ttf
+V/Users/zhaoyu/Library/Fonts/Inconsolata-g for Powerline.otf
 p488
 sg21
 g22
@@ -2489,18 +2489,18 @@ g3
 NtRp489
 (dp490
 g11
-g17
+g89
 sg13
-VSystem Font
+VTimes New Roman
 p491
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularItalicG3.otf
+V/Library/Fonts/Times New Roman Bold Italic.ttf
 p492
 sg21
 g22
@@ -2510,18 +2510,18 @@ g3
 NtRp493
 (dp494
 g11
-g17
+g89
 sg13
-VPilGi
+VArial Narrow
 p495
 sg15
 I400
 sg16
-g17
+g215
 sg18
 g17
 sg19
-V/Library/Fonts/Pilgiche.ttf
+V/Library/Fonts/Arial Narrow Italic.ttf
 p496
 sg21
 g22
@@ -2531,18 +2531,18 @@ g3
 NtRp497
 (dp498
 g11
-g17
+g89
 sg13
-VEstrangelo Midyat
+VArimo for Powerline
 p499
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMMidyat.otf
+V/Users/zhaoyu/Library/Fonts/Arimo Bold Italic for Powerline.ttf
 p500
 sg21
 g22
@@ -2554,16 +2554,16 @@ NtRp501
 g11
 g17
 sg13
-VApple Braille
+VArimo for Powerline
 p503
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Apple Braille Outline 8 Dot.ttf
+V/Users/zhaoyu/Library/Fonts/Arimo Bold for Powerline.ttf
 p504
 sg21
 g22
@@ -2575,7 +2575,7 @@ NtRp505
 g11
 g17
 sg13
-VSystem Font
+VLuxi Mono
 p507
 sg15
 I400
@@ -2584,7 +2584,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularItalicG2.otf
+V/usr/X11R6/lib/X11/fonts/TTF/luximr.ttf
 p508
 sg21
 g22
@@ -2596,7 +2596,7 @@ NtRp509
 g11
 g17
 sg13
-VPlantagenet Cherokee
+VSystem Font
 p511
 sg15
 I400
@@ -2605,7 +2605,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/PlantagenetCherokee.ttf
+V/System/Library/Fonts/SFNSText-RegularItalicG3.otf
 p512
 sg21
 g22
@@ -2617,7 +2617,7 @@ NtRp513
 g11
 g17
 sg13
-VMeslo LG L DZ for Powerline
+VPilGi
 p515
 sg15
 I400
@@ -2626,7 +2626,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Meslo LG L DZ Regular for Powerline.otf
+V/Library/Fonts/Pilgiche.ttf
 p516
 sg21
 g22
@@ -2638,16 +2638,16 @@ NtRp517
 g11
 g17
 sg13
-VTimes New Roman
+VEstrangelo Midyat
 p519
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Times New Roman Bold.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMMidyat.otf
 p520
 sg21
 g22
@@ -2657,18 +2657,18 @@ g3
 NtRp521
 (dp522
 g11
-g25
+g17
 sg13
-VSource Code Pro
+VApple Braille
 p523
 sg15
-I900
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-BlackIt.ttf
+V/System/Library/Fonts/Apple Braille Outline 8 Dot.ttf
 p524
 sg21
 g22
@@ -2680,16 +2680,16 @@ NtRp525
 g11
 g17
 sg13
-VFira Mono for Powerline
+VSystem Font
 p527
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/FuraMono-Bold Powerline.otf
+V/System/Library/Fonts/SFNSText-RegularItalicG2.otf
 p528
 sg21
 g22
@@ -2699,9 +2699,9 @@ g3
 NtRp529
 (dp530
 g11
-g25
+g17
 sg13
-VTinos for Powerline
+VPlantagenet Cherokee
 p531
 sg15
 I400
@@ -2710,7 +2710,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Tinos Italic for Powerline.ttf
+V/Library/Fonts/PlantagenetCherokee.ttf
 p532
 sg21
 g22
@@ -2720,18 +2720,18 @@ g3
 NtRp533
 (dp534
 g11
-g12
+g17
 sg13
-VLuxi Sans
+VMeslo LG L DZ for Powerline
 p535
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/TTF/luxisbi.ttf
+V/Users/zhaoyu/Library/Fonts/Meslo LG L DZ Regular for Powerline.otf
 p536
 sg21
 g22
@@ -2741,9 +2741,9 @@ g3
 NtRp537
 (dp538
 g11
-g25
+g17
 sg13
-VArial
+VTimes New Roman
 p539
 sg15
 I700
@@ -2752,7 +2752,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Bold Italic.ttf
+V/Library/Fonts/Times New Roman Bold.ttf
 p540
 sg21
 g22
@@ -2762,18 +2762,18 @@ g3
 NtRp541
 (dp542
 g11
-g17
+g89
 sg13
-VGoha-Tibeb Zemen
+VSource Code Pro
 p543
 sg15
-I400
+I900
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/TTF/GohaTibebZemen.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-BlackIt.ttf
 p544
 sg21
 g22
@@ -2785,16 +2785,16 @@ NtRp545
 g11
 g17
 sg13
-VHeadLineA
+VFira Mono for Powerline
 p547
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/HeadlineA.ttf
+V/Users/zhaoyu/Library/Fonts/FuraMono-Bold Powerline.otf
 p548
 sg21
 g22
@@ -2804,9 +2804,9 @@ g3
 NtRp549
 (dp550
 g11
-g17
+g89
 sg13
-VUbuntu Mono derivative Powerline
+VTinos for Powerline
 p551
 sg15
 I400
@@ -2815,7 +2815,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Tinos Italic for Powerline.ttf
 p552
 sg21
 g22
@@ -2825,18 +2825,18 @@ g3
 NtRp553
 (dp554
 g11
-g17
+g12
 sg13
-VSTIXVariants
+VLuxi Sans
 p555
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXVar.otf
+V/usr/X11/lib/X11/fonts/TTF/luxisbi.ttf
 p556
 sg21
 g22
@@ -2846,18 +2846,18 @@ g3
 NtRp557
 (dp558
 g11
-g17
+g89
 sg13
-VMishafi
+VArial
 p559
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Mishafi.ttf
+V/Library/Fonts/Arial Bold Italic.ttf
 p560
 sg21
 g22
@@ -2869,16 +2869,16 @@ NtRp561
 g11
 g17
 sg13
-VSTIXVariants
+VGoha-Tibeb Zemen
 p563
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXVarBol.otf
+V/usr/X11/lib/X11/fonts/TTF/GohaTibebZemen.ttf
 p564
 sg21
 g22
@@ -2890,7 +2890,7 @@ NtRp565
 g11
 g17
 sg13
-VSystem Font
+VHeadLineA
 p567
 sg15
 I400
@@ -2899,7 +2899,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldItalic.otf
+V/Library/Fonts/HeadlineA.ttf
 p568
 sg21
 g22
@@ -2911,7 +2911,7 @@ NtRp569
 g11
 g17
 sg13
-VSystem Font
+VUbuntu Mono derivative Powerline
 p571
 sg15
 I400
@@ -2920,7 +2920,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldItalicG1.otf
+V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline.ttf
 p572
 sg21
 g22
@@ -2932,7 +2932,7 @@ NtRp573
 g11
 g17
 sg13
-VSerto Jerusalem
+VSTIXVariants
 p575
 sg15
 I400
@@ -2941,7 +2941,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalem.otf
+V/Library/Fonts/STIXVar.otf
 p576
 sg21
 g22
@@ -2953,7 +2953,7 @@ NtRp577
 g11
 g17
 sg13
-VSerto Batnan
+VMishafi
 p579
 sg15
 I400
@@ -2962,7 +2962,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMBatnan.otf
+V/Library/Fonts/Mishafi.ttf
 p580
 sg21
 g22
@@ -2974,16 +2974,16 @@ NtRp581
 g11
 g17
 sg13
-VSTFangsong
+VSTIXVariants
 p583
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/\u534e\u6587\u4eff\u5b8b.ttf
+V/Library/Fonts/STIXVarBol.otf
 p584
 sg21
 g22
@@ -2995,7 +2995,7 @@ NtRp585
 g11
 g17
 sg13
-VInconsolata-dz for Powerline
+VSystem Font
 p587
 sg15
 I400
@@ -3004,7 +3004,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Inconsolata-dz for Powerline.otf
+V/System/Library/Fonts/SFNSText-BoldItalic.otf
 p588
 sg21
 g22
@@ -3014,9 +3014,9 @@ g3
 NtRp589
 (dp590
 g11
-g25
+g17
 sg13
-VRoboto Mono for Powerline
+VSystem Font
 p591
 sg15
 I400
@@ -3025,7 +3025,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Italic for Powerline.ttf
+V/System/Library/Fonts/SFNSText-BoldItalicG1.otf
 p592
 sg21
 g22
@@ -3035,18 +3035,18 @@ g3
 NtRp593
 (dp594
 g11
-g25
+g17
 sg13
-VSource Code Pro
+VSerto Jerusalem
 p595
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-SemiboldIt.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalem.otf
 p596
 sg21
 g22
@@ -3058,7 +3058,7 @@ NtRp597
 g11
 g17
 sg13
-VSTHeiti
+VSerto Batnan
 p599
 sg15
 I400
@@ -3067,7 +3067,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/\u534e\u6587\u9ed1\u4f53.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMBatnan.otf
 p600
 sg21
 g22
@@ -3079,7 +3079,7 @@ NtRp601
 g11
 g17
 sg13
-VSystem Font
+VSTFangsong
 p603
 sg15
 I400
@@ -3088,7 +3088,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-Regular.otf
+V/Library/Fonts/\u534e\u6587\u4eff\u5b8b.ttf
 p604
 sg21
 g22
@@ -3100,16 +3100,16 @@ NtRp605
 g11
 g17
 sg13
-VSTIXIntegralsUp
+VInconsolata-dz for Powerline
 p607
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntUpBol.otf
+V/Users/zhaoyu/Library/Fonts/Inconsolata-dz for Powerline.otf
 p608
 sg21
 g22
@@ -3119,9 +3119,9 @@ g3
 NtRp609
 (dp610
 g11
-g17
+g89
 sg13
-VWawati TC
+VRoboto Mono for Powerline
 p611
 sg15
 I400
@@ -3130,7 +3130,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/WawaTC-Regular.otf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Italic for Powerline.ttf
 p612
 sg21
 g22
@@ -3140,7 +3140,7 @@ g3
 NtRp613
 (dp614
 g11
-g17
+g89
 sg13
 VSource Code Pro
 p615
@@ -3151,7 +3151,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-Semibold.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-SemiboldIt.ttf
 p616
 sg21
 g22
@@ -3163,16 +3163,16 @@ NtRp617
 g11
 g17
 sg13
-VAnonymous Pro for Powerline
+VSTHeiti
 p619
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Anonymice Powerline Bold.ttf
+V/Library/Fonts/\u534e\u6587\u9ed1\u4f53.ttf
 p620
 sg21
 g22
@@ -3184,7 +3184,7 @@ NtRp621
 g11
 g17
 sg13
-VSkia
+VSystem Font
 p623
 sg15
 I400
@@ -3193,7 +3193,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Skia.ttf
+V/System/Library/Fonts/SFNSText-Regular.otf
 p624
 sg21
 g22
@@ -3205,16 +3205,16 @@ NtRp625
 g11
 g17
 sg13
-VSTIXSizeFiveSym
+VSTIXIntegralsUp
 p627
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizFiveSymReg.otf
+V/Library/Fonts/STIXIntUpBol.otf
 p628
 sg21
 g22
@@ -3226,7 +3226,7 @@ NtRp629
 g11
 g17
 sg13
-VVerdana
+VWawati TC
 p631
 sg15
 I400
@@ -3235,7 +3235,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Verdana.ttf
+V/Library/Fonts/WawaTC-Regular.otf
 p632
 sg21
 g22
@@ -3247,16 +3247,16 @@ NtRp633
 g11
 g17
 sg13
-VFarisi
+VSource Code Pro
 p635
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Farisi.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-Semibold.ttf
 p636
 sg21
 g22
@@ -3266,18 +3266,18 @@ g3
 NtRp637
 (dp638
 g11
-g25
+g17
 sg13
-VSource Code Pro
+VAnonymous Pro for Powerline
 p639
 sg15
-I200
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-ExtraLightIt.ttf
+V/Users/zhaoyu/Library/Fonts/Anonymice Powerline Bold.ttf
 p640
 sg21
 g22
@@ -3289,7 +3289,7 @@ NtRp641
 g11
 g17
 sg13
-VDroid Sans Mono Dotted for Powerline
+VSkia
 p643
 sg15
 I400
@@ -3298,7 +3298,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Droid Sans Mono Dotted for Powerline.ttf
+V/Library/Fonts/Skia.ttf
 p644
 sg21
 g22
@@ -3308,9 +3308,9 @@ g3
 NtRp645
 (dp646
 g11
-g25
+g17
 sg13
-VRoboto Mono Thin for Powerline
+VSTIXSizeFiveSym
 p647
 sg15
 I400
@@ -3319,7 +3319,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Thin Italic for Powerline.ttf
+V/Library/Fonts/STIXSizFiveSymReg.otf
 p648
 sg21
 g22
@@ -3331,16 +3331,16 @@ NtRp649
 g11
 g17
 sg13
-VSerto Urhoy
+VVerdana
 p651
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMUrhoyBold.otf
+V/Library/Fonts/Verdana.ttf
 p652
 sg21
 g22
@@ -3352,7 +3352,7 @@ NtRp653
 g11
 g17
 sg13
-VGurmukhi MT
+VFarisi
 p655
 sg15
 I400
@@ -3361,7 +3361,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Gurmukhi.ttf
+V/Library/Fonts/Farisi.ttf
 p656
 sg21
 g22
@@ -3371,18 +3371,18 @@ g3
 NtRp657
 (dp658
 g11
-g17
+g89
 sg13
-VBodoni 72 Smallcaps
+VSource Code Pro
 p659
 sg15
-I400
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Bodoni 72 Smallcaps Book.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-ExtraLightIt.ttf
 p660
 sg21
 g22
@@ -3394,16 +3394,16 @@ NtRp661
 g11
 g17
 sg13
-VYuGothic
+VDroid Sans Mono Dotted for Powerline
 p663
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Yu Gothic Bold.otf
+V/Users/zhaoyu/Library/Fonts/Droid Sans Mono Dotted for Powerline.ttf
 p664
 sg21
 g22
@@ -3413,18 +3413,18 @@ g3
 NtRp665
 (dp666
 g11
-g17
+g89
 sg13
-VSource Code Pro
+VRoboto Mono Thin for Powerline
 p667
 sg15
-I900
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-Black.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Thin Italic for Powerline.ttf
 p668
 sg21
 g22
@@ -3436,16 +3436,16 @@ NtRp669
 g11
 g17
 sg13
-VSystem Font
+VSerto Urhoy
 p671
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularItalicG1.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMUrhoyBold.otf
 p672
 sg21
 g22
@@ -3457,7 +3457,7 @@ NtRp673
 g11
 g17
 sg13
-VSystem Font
+VGurmukhi MT
 p675
 sg15
 I400
@@ -3466,7 +3466,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldItalicG3.otf
+V/Library/Fonts/Gurmukhi.ttf
 p676
 sg21
 g22
@@ -3478,7 +3478,7 @@ NtRp677
 g11
 g17
 sg13
-VSystem Font
+VBodoni 72 Smallcaps
 p679
 sg15
 I400
@@ -3487,7 +3487,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-Bold.otf
+V/Library/Fonts/Bodoni 72 Smallcaps Book.ttf
 p680
 sg21
 g22
@@ -3499,16 +3499,16 @@ NtRp681
 g11
 g17
 sg13
-VLuxi Sans
+VYuGothic
 p683
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/TTF/luxisr.ttf
+V/Library/Fonts/Yu Gothic Bold.otf
 p684
 sg21
 g22
@@ -3520,16 +3520,16 @@ NtRp685
 g11
 g17
 sg13
-VMeslo LG L for Powerline
+VSource Code Pro
 p687
 sg15
-I400
+I900
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Meslo LG L Regular for Powerline.otf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-Black.ttf
 p688
 sg21
 g22
@@ -3539,9 +3539,9 @@ g3
 NtRp689
 (dp690
 g11
-g25
+g17
 sg13
-VArial
+VSystem Font
 p691
 sg15
 I400
@@ -3550,7 +3550,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Italic.ttf
+V/System/Library/Fonts/SFNSText-RegularItalicG1.otf
 p692
 sg21
 g22
@@ -3562,7 +3562,7 @@ NtRp693
 g11
 g17
 sg13
-VEast Syriac Adiabene
+VSystem Font
 p695
 sg15
 I400
@@ -3571,7 +3571,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMAdiabene.otf
+V/System/Library/Fonts/SFNSText-BoldItalicG3.otf
 p696
 sg21
 g22
@@ -3583,7 +3583,7 @@ NtRp697
 g11
 g17
 sg13
-VTinos for Powerline
+VSystem Font
 p699
 sg15
 I400
@@ -3592,7 +3592,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Tinos for Powerline.ttf
+V/System/Library/Fonts/SFNSText-Bold.otf
 p700
 sg21
 g22
@@ -3604,7 +3604,7 @@ NtRp701
 g11
 g17
 sg13
-VSystem Font
+VLuxi Sans
 p703
 sg15
 I400
@@ -3613,7 +3613,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Light.otf
+V/usr/X11/lib/X11/fonts/TTF/luxisr.ttf
 p704
 sg21
 g22
@@ -3623,18 +3623,18 @@ g3
 NtRp705
 (dp706
 g11
-g25
+g17
 sg13
-VSTIXNonUnicode
+VMeslo LG L for Powerline
 p707
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXNonUniBolIta.otf
+V/Users/zhaoyu/Library/Fonts/Meslo LG L Regular for Powerline.otf
 p708
 sg21
 g22
@@ -3644,9 +3644,9 @@ g3
 NtRp709
 (dp710
 g11
-g17
+g89
 sg13
-VApple Braille
+VArial
 p711
 sg15
 I400
@@ -3655,7 +3655,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf
+V/Library/Fonts/Arial Italic.ttf
 p712
 sg21
 g22
@@ -3667,16 +3667,16 @@ NtRp713
 g11
 g17
 sg13
-VLuxi Serif
+VEast Syriac Adiabene
 p715
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luxirb.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMAdiabene.otf
 p716
 sg21
 g22
@@ -3686,9 +3686,9 @@ g3
 NtRp717
 (dp718
 g11
-g25
+g17
 sg13
-VGeorgia
+VTinos for Powerline
 p719
 sg15
 I400
@@ -3697,7 +3697,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Georgia Italic.ttf
+V/Users/zhaoyu/Library/Fonts/Tinos for Powerline.ttf
 p720
 sg21
 g22
@@ -3709,7 +3709,7 @@ NtRp721
 g11
 g17
 sg13
-VApple Braille
+VSystem Font
 p723
 sg15
 I400
@@ -3718,7 +3718,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Apple Braille Outline 6 Dot.ttf
+V/System/Library/Fonts/SFNSDisplay-Light.otf
 p724
 sg21
 g22
@@ -3728,9 +3728,9 @@ g3
 NtRp725
 (dp726
 g11
-g17
+g89
 sg13
-VCousine for Powerline
+VSTIXNonUnicode
 p727
 sg15
 I700
@@ -3739,7 +3739,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Cousine Bold for Powerline.ttf
+V/Library/Fonts/STIXNonUniBolIta.otf
 p728
 sg21
 g22
@@ -3749,18 +3749,18 @@ g3
 NtRp729
 (dp730
 g11
-g25
+g17
 sg13
-VCourier New
+VApple Braille
 p731
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Courier New Bold Italic.ttf
+V/System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf
 p732
 sg21
 g22
@@ -3772,16 +3772,16 @@ NtRp733
 g11
 g17
 sg13
-VWawati SC
+VLuxi Serif
 p735
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/WawaSC-Regular.otf
+V/usr/X11R6/lib/X11/fonts/TTF/luxirb.ttf
 p736
 sg21
 g22
@@ -3791,9 +3791,9 @@ g3
 NtRp737
 (dp738
 g11
-g17
+g89
 sg13
-VEstrangelo Talada
+VGeorgia
 p739
 sg15
 I400
@@ -3802,7 +3802,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMTalada.otf
+V/Library/Fonts/Georgia Italic.ttf
 p740
 sg21
 g22
@@ -3814,7 +3814,7 @@ NtRp741
 g11
 g17
 sg13
-VSerto Kharput
+VApple Braille
 p743
 sg15
 I400
@@ -3823,7 +3823,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMKharput.otf
+V/System/Library/Fonts/Apple Braille Outline 6 Dot.ttf
 p744
 sg21
 g22
@@ -3835,16 +3835,16 @@ NtRp745
 g11
 g17
 sg13
-VSystem Font
+VCousine for Powerline
 p747
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularG3.otf
+V/Users/zhaoyu/Library/Fonts/Cousine Bold for Powerline.ttf
 p748
 sg21
 g22
@@ -3854,9 +3854,9 @@ g3
 NtRp749
 (dp750
 g11
-g17
+g89
 sg13
-VArial Rounded MT Bold
+VCourier New
 p751
 sg15
 I700
@@ -3865,7 +3865,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Rounded Bold.ttf
+V/Library/Fonts/Courier New Bold Italic.ttf
 p752
 sg21
 g22
@@ -3875,18 +3875,18 @@ g3
 NtRp753
 (dp754
 g11
-g25
+g17
 sg13
-VSource Code Pro
+VWawati SC
 p755
 sg15
-I500
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-MediumIt.ttf
+V/Library/Fonts/WawaSC-Regular.otf
 p756
 sg21
 g22
@@ -3896,18 +3896,18 @@ g3
 NtRp757
 (dp758
 g11
-g25
+g17
 sg13
-VAnonymous Pro for Powerline
+VEstrangelo Talada
 p759
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Anonymice Powerline Bold Italic.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMTalada.otf
 p760
 sg21
 g22
@@ -3919,7 +3919,7 @@ NtRp761
 g11
 g17
 sg13
-VRoboto Mono for Powerline
+VFangSong
 p763
 sg15
 I400
@@ -3928,7 +3928,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/simfang.ttf
 p764
 sg21
 g22
@@ -3938,18 +3938,18 @@ g3
 NtRp765
 (dp766
 g11
-g25
+g17
 sg13
-VCousine for Powerline
+VSystem Font
 p767
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Cousine Bold Italic for Powerline.ttf
+V/System/Library/Fonts/SFNSText-RegularG3.otf
 p768
 sg21
 g22
@@ -3961,16 +3961,16 @@ NtRp769
 g11
 g17
 sg13
-VSystem Font
+VArial Rounded MT Bold
 p771
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-Semibold.otf
+V/Library/Fonts/Arial Rounded Bold.ttf
 p772
 sg21
 g22
@@ -3980,18 +3980,18 @@ g3
 NtRp773
 (dp774
 g11
-g17
+g89
 sg13
-VPCMyungjo
+VSource Code Pro
 p775
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/PCmyoungjo.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-MediumIt.ttf
 p776
 sg21
 g22
@@ -4001,18 +4001,18 @@ g3
 NtRp777
 (dp778
 g11
-g17
+g89
 sg13
-V.LastResort
+VAnonymous Pro for Powerline
 p779
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/LastResort.ttf
+V/Users/zhaoyu/Library/Fonts/Anonymice Powerline Bold Italic.ttf
 p780
 sg21
 g22
@@ -4022,18 +4022,18 @@ g3
 NtRp781
 (dp782
 g11
-g25
+g17
 sg13
-VVerdana
+VRoboto Mono for Powerline
 p783
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Verdana Bold Italic.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono for Powerline.ttf
 p784
 sg21
 g22
@@ -4043,18 +4043,18 @@ g3
 NtRp785
 (dp786
 g11
-g17
+g89
 sg13
-VEstrangelo Quenneshrin
+VCousine for Powerline
 p787
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMQenNeshrin.otf
+V/Users/zhaoyu/Library/Fonts/Cousine Bold Italic for Powerline.ttf
 p788
 sg21
 g22
@@ -4066,7 +4066,7 @@ NtRp789
 g11
 g17
 sg13
-VLiHei Pro
+VSystem Font
 p791
 sg15
 I400
@@ -4075,7 +4075,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/\u5137\u9ed1 Pro.ttf
+V/System/Library/Fonts/SFNSText-Semibold.otf
 p792
 sg21
 g22
@@ -4087,7 +4087,7 @@ NtRp793
 g11
 g17
 sg13
-VSystem Font
+VPCMyungjo
 p795
 sg15
 I400
@@ -4096,7 +4096,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-LightItalic.otf
+V/Library/Fonts/PCmyoungjo.ttf
 p796
 sg21
 g22
@@ -4108,7 +4108,7 @@ NtRp797
 g11
 g17
 sg13
-VInaiMathi
+V.LastResort
 p799
 sg15
 I400
@@ -4117,7 +4117,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/InaiMathi.ttf
+V/System/Library/Fonts/LastResort.ttf
 p800
 sg21
 g22
@@ -4127,18 +4127,18 @@ g3
 NtRp801
 (dp802
 g11
-g17
+g89
 sg13
-VSystem Font
+VVerdana
 p803
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldG2.otf
+V/Library/Fonts/Verdana Bold Italic.ttf
 p804
 sg21
 g22
@@ -4150,7 +4150,7 @@ NtRp805
 g11
 g17
 sg13
-VSTIXIntegralsSm
+VEstrangelo Quenneshrin
 p807
 sg15
 I400
@@ -4159,7 +4159,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntSmReg.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMQenNeshrin.otf
 p808
 sg21
 g22
@@ -4171,7 +4171,7 @@ NtRp809
 g11
 g17
 sg13
-VKokonor
+VLiHei Pro
 p811
 sg15
 I400
@@ -4180,7 +4180,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Kokonor.ttf
+V/Library/Fonts/\u5137\u9ed1 Pro.ttf
 p812
 sg21
 g22
@@ -4192,7 +4192,7 @@ NtRp813
 g11
 g17
 sg13
-Vmonofur for Powerline
+VSystem Font
 p815
 sg15
 I400
@@ -4201,7 +4201,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Monofur for Powerline.ttf
+V/System/Library/Fonts/SFNSText-LightItalic.otf
 p816
 sg21
 g22
@@ -4211,9 +4211,9 @@ g3
 NtRp817
 (dp818
 g11
-g25
+g17
 sg13
-VVerdana
+VInaiMathi
 p819
 sg15
 I400
@@ -4222,7 +4222,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Verdana Italic.ttf
+V/Library/Fonts/InaiMathi.ttf
 p820
 sg21
 g22
@@ -4234,16 +4234,16 @@ NtRp821
 g11
 g17
 sg13
-VSTIXGeneral
+VSystem Font
 p823
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXGeneralBol.otf
+V/System/Library/Fonts/SFNSText-BoldG2.otf
 p824
 sg21
 g22
@@ -4255,7 +4255,7 @@ NtRp825
 g11
 g17
 sg13
-VApple Braille
+VSTIXIntegralsSm
 p827
 sg15
 I400
@@ -4264,7 +4264,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Apple Braille.ttf
+V/Library/Fonts/STIXIntSmReg.otf
 p828
 sg21
 g22
@@ -4276,16 +4276,16 @@ NtRp829
 g11
 g17
 sg13
-VSource Code Pro
+VKokonor
 p831
 sg15
-I200
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-Light.ttf
+V/Library/Fonts/Kokonor.ttf
 p832
 sg21
 g22
@@ -4297,16 +4297,16 @@ NtRp833
 g11
 g17
 sg13
-VSource Code Pro for Powerline
+Vmonofur for Powerline
 p835
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Bold.otf
+V/Users/zhaoyu/Library/Fonts/Monofur for Powerline.ttf
 p836
 sg21
 g22
@@ -4316,9 +4316,9 @@ g3
 NtRp837
 (dp838
 g11
-g17
+g89
 sg13
-VSystem Font
+VVerdana
 p839
 sg15
 I400
@@ -4327,7 +4327,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-Light.otf
+V/Library/Fonts/Verdana Italic.ttf
 p840
 sg21
 g22
@@ -4339,16 +4339,16 @@ NtRp841
 g11
 g17
 sg13
-VSystem Font
+VSTIXGeneral
 p843
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Ultralight.otf
+V/Library/Fonts/STIXGeneralBol.otf
 p844
 sg21
 g22
@@ -4360,7 +4360,7 @@ NtRp845
 g11
 g17
 sg13
-VChalkduster
+VApple Braille
 p847
 sg15
 I400
@@ -4369,7 +4369,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Chalkduster.ttf
+V/System/Library/Fonts/Apple Braille.ttf
 p848
 sg21
 g22
@@ -4381,16 +4381,16 @@ NtRp849
 g11
 g17
 sg13
-VLiberation Mono for Powerline
+VSource Code Pro
 p851
 sg15
-I400
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Literation Mono Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-Light.ttf
 p852
 sg21
 g22
@@ -4402,16 +4402,16 @@ NtRp853
 g11
 g17
 sg13
-VEstrangelo Antioch
+VSource Code Pro for Powerline
 p855
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMAntioch.otf
+V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Bold.otf
 p856
 sg21
 g22
@@ -4423,16 +4423,16 @@ NtRp857
 g11
 g17
 sg13
-VWeibei TC
+VSystem Font
 p859
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/WeibeiTC-Bold.otf
+V/System/Library/Fonts/SFNSText-Light.otf
 p860
 sg21
 g22
@@ -4442,9 +4442,9 @@ g3
 NtRp861
 (dp862
 g11
-g25
+g17
 sg13
-VLiberation Mono for Powerline
+VSystem Font
 p863
 sg15
 I400
@@ -4453,7 +4453,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Literation Mono Powerline Italic.ttf
+V/System/Library/Fonts/SFNSDisplay-Ultralight.otf
 p864
 sg21
 g22
@@ -4463,18 +4463,18 @@ g3
 NtRp865
 (dp866
 g11
-g25
+g17
 sg13
-VSource Code Pro
+VChalkduster
 p867
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-BoldIt.ttf
+V/Library/Fonts/Chalkduster.ttf
 p868
 sg21
 g22
@@ -4486,7 +4486,7 @@ NtRp869
 g11
 g17
 sg13
-VSTIXNonUnicode
+VLiberation Mono for Powerline
 p871
 sg15
 I400
@@ -4495,7 +4495,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXNonUni.otf
+V/Users/zhaoyu/Library/Fonts/Literation Mono Powerline.ttf
 p872
 sg21
 g22
@@ -4507,7 +4507,7 @@ NtRp873
 g11
 g17
 sg13
-VEstrangelo Edessa
+VEstrangelo Antioch
 p875
 sg15
 I400
@@ -4516,7 +4516,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMEdessa.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMAntioch.otf
 p876
 sg21
 g22
@@ -4526,9 +4526,9 @@ g3
 NtRp877
 (dp878
 g11
-g25
+g17
 sg13
-VHack
+VWeibei TC
 p879
 sg15
 I700
@@ -4537,7 +4537,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Hack-BoldItalic.ttf
+V/Library/Fonts/WeibeiTC-Bold.otf
 p880
 sg21
 g22
@@ -4547,9 +4547,9 @@ g3
 NtRp881
 (dp882
 g11
-g17
+g89
 sg13
-VOsaka
+VLiberation Mono for Powerline
 p883
 sg15
 I400
@@ -4558,7 +4558,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/OsakaMono.ttf
+V/Users/zhaoyu/Library/Fonts/Literation Mono Powerline Italic.ttf
 p884
 sg21
 g22
@@ -4568,18 +4568,18 @@ g3
 NtRp885
 (dp886
 g11
-g25
+g89
 sg13
-VSTIXNonUnicode
+VSource Code Pro
 p887
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXNonUniIta.otf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-BoldIt.ttf
 p888
 sg21
 g22
@@ -4591,7 +4591,7 @@ NtRp889
 g11
 g17
 sg13
-VSTIXIntegralsUp
+VSTIXNonUnicode
 p891
 sg15
 I400
@@ -4600,7 +4600,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntUpReg.otf
+V/Library/Fonts/STIXNonUni.otf
 p892
 sg21
 g22
@@ -4612,7 +4612,7 @@ NtRp893
 g11
 g17
 sg13
-VYuppy SC
+VEstrangelo Edessa
 p895
 sg15
 I400
@@ -4621,7 +4621,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/YuppySC-Regular.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMEdessa.otf
 p896
 sg21
 g22
@@ -4631,18 +4631,18 @@ g3
 NtRp897
 (dp898
 g11
-g17
+g89
 sg13
-VSource Code Pro
+VHack
 p899
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-Regular.ttf
+V/Users/zhaoyu/Library/Fonts/Hack-BoldItalic.ttf
 p900
 sg21
 g22
@@ -4654,16 +4654,16 @@ NtRp901
 g11
 g17
 sg13
-VComic Sans MS
+VOsaka
 p903
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Comic Sans MS Bold.ttf
+V/Library/Fonts/OsakaMono.ttf
 p904
 sg21
 g22
@@ -4673,9 +4673,9 @@ g3
 NtRp905
 (dp906
 g11
-g17
+g89
 sg13
-VTrebuchet MS
+VSTIXNonUnicode
 p907
 sg15
 I400
@@ -4684,7 +4684,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Trebuchet MS.ttf
+V/Library/Fonts/STIXNonUniIta.otf
 p908
 sg21
 g22
@@ -4696,16 +4696,16 @@ NtRp909
 g11
 g17
 sg13
-VSource Code Pro for Powerline
+VSTIXIntegralsUp
 p911
 sg15
-I500
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Medium.otf
+V/Library/Fonts/STIXIntUpReg.otf
 p912
 sg21
 g22
@@ -4717,7 +4717,7 @@ NtRp913
 g11
 g17
 sg13
-VLuxi Serif
+VYuppy SC
 p915
 sg15
 I400
@@ -4726,7 +4726,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luxirr.ttf
+V/Library/Fonts/YuppySC-Regular.otf
 p916
 sg21
 g22
@@ -4738,16 +4738,16 @@ NtRp917
 g11
 g17
 sg13
-VCourier New
+VSource Code Pro
 p919
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Courier New Bold.ttf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-Regular.ttf
 p920
 sg21
 g22
@@ -4759,16 +4759,16 @@ NtRp921
 g11
 g17
 sg13
-VBig Caslon
+VComic Sans MS
 p923
 sg15
-I500
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/BigCaslon.ttf
+V/Library/Fonts/Comic Sans MS Bold.ttf
 p924
 sg21
 g22
@@ -4780,7 +4780,7 @@ NtRp925
 g11
 g17
 sg13
-VEstrangelo TurAbdin
+VTrebuchet MS
 p927
 sg15
 I400
@@ -4789,7 +4789,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMTurAbdin.otf
+V/Library/Fonts/Trebuchet MS.ttf
 p928
 sg21
 g22
@@ -4801,16 +4801,16 @@ NtRp929
 g11
 g17
 sg13
-VDroid Sans Mono for Powerline
+VSource Code Pro for Powerline
 p931
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Droid Sans Mono for Powerline.otf
+V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Medium.otf
 p932
 sg21
 g22
@@ -4822,7 +4822,7 @@ NtRp933
 g11
 g17
 sg13
-VSystem Font
+VLuxi Serif
 p935
 sg15
 I400
@@ -4831,7 +4831,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-Heavy.otf
+V/usr/X11R6/lib/X11/fonts/TTF/luxirr.ttf
 p936
 sg21
 g22
@@ -4841,9 +4841,9 @@ g3
 NtRp937
 (dp938
 g11
-g25
+g17
 sg13
-VRoboto Mono for Powerline
+VCourier New
 p939
 sg15
 I700
@@ -4852,7 +4852,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Bold Italic for Powerline.ttf
+V/Library/Fonts/Courier New Bold.ttf
 p940
 sg21
 g22
@@ -4864,16 +4864,16 @@ NtRp941
 g11
 g17
 sg13
-VAyuthaya
+VBig Caslon
 p943
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Ayuthaya.ttf
+V/Library/Fonts/BigCaslon.ttf
 p944
 sg21
 g22
@@ -4885,7 +4885,7 @@ NtRp945
 g11
 g17
 sg13
-VHerculanum
+VEstrangelo TurAbdin
 p947
 sg15
 I400
@@ -4894,7 +4894,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Herculanum.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMTurAbdin.otf
 p948
 sg21
 g22
@@ -4906,7 +4906,7 @@ NtRp949
 g11
 g17
 sg13
-VWebdings
+VDroid Sans Mono for Powerline
 p951
 sg15
 I400
@@ -4915,7 +4915,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Webdings.ttf
+V/Users/zhaoyu/Library/Fonts/Droid Sans Mono for Powerline.otf
 p952
 sg21
 g22
@@ -4936,7 +4936,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Black.otf
+V/System/Library/Fonts/SFNSText-Heavy.otf
 p956
 sg21
 g22
@@ -4946,18 +4946,18 @@ g3
 NtRp957
 (dp958
 g11
-g17
+g89
 sg13
-VApple Braille
+VRoboto Mono for Powerline
 p959
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Bold Italic for Powerline.ttf
 p960
 sg21
 g22
@@ -4967,9 +4967,9 @@ g3
 NtRp961
 (dp962
 g11
-g25
+g17
 sg13
-Vmonofur for Powerline
+VAyuthaya
 p963
 sg15
 I400
@@ -4978,7 +4978,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Monofur Italic for Powerline.ttf
+V/Library/Fonts/Ayuthaya.ttf
 p964
 sg21
 g22
@@ -4990,7 +4990,7 @@ NtRp965
 g11
 g17
 sg13
-VSymbol
+VHerculanum
 p967
 sg15
 I400
@@ -4999,7 +4999,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Symbol.ttf
+V/Library/Fonts/Herculanum.ttf
 p968
 sg21
 g22
@@ -5011,7 +5011,7 @@ NtRp969
 g11
 g17
 sg13
-VSystem Font
+VWebdings
 p971
 sg15
 I400
@@ -5020,7 +5020,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-MediumItalic.otf
+V/Library/Fonts/Webdings.ttf
 p972
 sg21
 g22
@@ -5030,18 +5030,18 @@ g3
 NtRp973
 (dp974
 g11
-g25
+g17
 sg13
-VTrebuchet MS
+VSystem Font
 p975
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Trebuchet MS Bold Italic.ttf
+V/System/Library/Fonts/SFNSDisplay-Black.otf
 p976
 sg21
 g22
@@ -5053,7 +5053,7 @@ NtRp977
 g11
 g17
 sg13
-VEast Syriac Ctesiphon
+VApple Braille
 p979
 sg15
 I400
@@ -5062,7 +5062,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMCtesiphon.otf
+V/System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf
 p980
 sg21
 g22
@@ -5072,9 +5072,9 @@ g3
 NtRp981
 (dp982
 g11
-g17
+g89
 sg13
-VSTHeiti
+Vmonofur for Powerline
 p983
 sg15
 I400
@@ -5083,7 +5083,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/\u534e\u6587\u7ec6\u9ed1.ttf
+V/Users/zhaoyu/Library/Fonts/Monofur Italic for Powerline.ttf
 p984
 sg21
 g22
@@ -5095,7 +5095,7 @@ NtRp985
 g11
 g17
 sg13
-VSerto Malankara
+VSymbol
 p987
 sg15
 I400
@@ -5104,7 +5104,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMMalankara.otf
+V/System/Library/Fonts/Symbol.ttf
 p988
 sg21
 g22
@@ -5116,16 +5116,16 @@ NtRp989
 g11
 g17
 sg13
-Vmonofur for Powerline
+VSystem Font
 p991
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Monofur Bold for Powerline.ttf
+V/System/Library/Fonts/SFNSText-MediumItalic.otf
 p992
 sg21
 g22
@@ -5135,18 +5135,18 @@ g3
 NtRp993
 (dp994
 g11
-g17
+g89
 sg13
-VWingdings 2
+VTrebuchet MS
 p995
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Wingdings 2.ttf
+V/Library/Fonts/Trebuchet MS Bold Italic.ttf
 p996
 sg21
 g22
@@ -5158,7 +5158,7 @@ NtRp997
 g11
 g17
 sg13
-VSignPainter
+VEast Syriac Ctesiphon
 p999
 sg15
 I400
@@ -5167,7 +5167,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/SignPainter.otf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMCtesiphon.otf
 p1000
 sg21
 g22
@@ -5179,7 +5179,7 @@ NtRp1001
 g11
 g17
 sg13
-VTahoma
+VSTHeiti
 p1003
 sg15
 I400
@@ -5188,7 +5188,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Tahoma.ttf
+V/Library/Fonts/\u534e\u6587\u7ec6\u9ed1.ttf
 p1004
 sg21
 g22
@@ -5198,9 +5198,9 @@ g3
 NtRp1005
 (dp1006
 g11
-g25
+g17
 sg13
-VBrush Script MT
+VSerto Malankara
 p1007
 sg15
 I400
@@ -5209,7 +5209,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Brush Script.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMMalankara.otf
 p1008
 sg21
 g22
@@ -5221,16 +5221,16 @@ NtRp1009
 g11
 g17
 sg13
-V.Keyboard
+Vmonofur for Powerline
 p1011
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/Keyboard.ttf
+V/Users/zhaoyu/Library/Fonts/Monofur Bold for Powerline.ttf
 p1012
 sg21
 g22
@@ -5242,16 +5242,16 @@ NtRp1013
 g11
 g17
 sg13
-VSerto Jerusalem
+VWingdings 2
 p1015
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalemBold.otf
+V/Library/Fonts/Wingdings 2.ttf
 p1016
 sg21
 g22
@@ -5263,7 +5263,7 @@ NtRp1017
 g11
 g17
 sg13
-VSTIXSizeOneSym
+VSignPainter
 p1019
 sg15
 I400
@@ -5272,7 +5272,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizOneSymReg.otf
+V/Library/Fonts/SignPainter.otf
 p1020
 sg21
 g22
@@ -5284,7 +5284,7 @@ NtRp1021
 g11
 g17
 sg13
-VSTIXIntegralsUpSm
+VTahoma
 p1023
 sg15
 I400
@@ -5293,7 +5293,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntUpSmReg.otf
+V/Library/Fonts/Tahoma.ttf
 p1024
 sg21
 g22
@@ -5303,9 +5303,9 @@ g3
 NtRp1025
 (dp1026
 g11
-g17
+g89
 sg13
-VAndale Mono
+VBrush Script MT
 p1027
 sg15
 I400
@@ -5314,7 +5314,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Andale Mono.ttf
+V/Library/Fonts/Brush Script.ttf
 p1028
 sg21
 g22
@@ -5326,7 +5326,7 @@ NtRp1029
 g11
 g17
 sg13
-VKhmer Sangam MN
+V.Keyboard
 p1031
 sg15
 I400
@@ -5335,7 +5335,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Khmer Sangam MN.ttf
+V/System/Library/Fonts/Keyboard.ttf
 p1032
 sg21
 g22
@@ -5345,9 +5345,9 @@ g3
 NtRp1033
 (dp1034
 g11
-g12
+g17
 sg13
-VLuxi Mono
+VSerto Jerusalem
 p1035
 sg15
 I700
@@ -5356,7 +5356,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luximbi.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalemBold.otf
 p1036
 sg21
 g22
@@ -5366,9 +5366,9 @@ g3
 NtRp1037
 (dp1038
 g11
-g25
+g17
 sg13
-VCousine for Powerline
+VSTIXSizeOneSym
 p1039
 sg15
 I400
@@ -5377,7 +5377,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Cousine Italic for Powerline.ttf
+V/Library/Fonts/STIXSizOneSymReg.otf
 p1040
 sg21
 g22
@@ -5389,7 +5389,7 @@ NtRp1041
 g11
 g17
 sg13
-VMicrosoft Sans Serif
+VSTIXIntegralsUpSm
 p1043
 sg15
 I400
@@ -5398,7 +5398,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Microsoft Sans Serif.ttf
+V/Library/Fonts/STIXIntUpSmReg.otf
 p1044
 sg21
 g22
@@ -5410,16 +5410,16 @@ NtRp1045
 g11
 g17
 sg13
-VSource Code Pro for Powerline
+VAndale Mono
 p1047
 sg15
-I200
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline ExtraLight.otf
+V/Library/Fonts/Andale Mono.ttf
 p1048
 sg21
 g22
@@ -5431,16 +5431,16 @@ NtRp1049
 g11
 g17
 sg13
-VSTIXIntegralsUpD
+VKhmer Sangam MN
 p1051
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntUpDBol.otf
+V/Library/Fonts/Khmer Sangam MN.ttf
 p1052
 sg21
 g22
@@ -5450,18 +5450,18 @@ g3
 NtRp1053
 (dp1054
 g11
-g25
+g12
 sg13
-VSource Code Pro
+VLuxi Mono
 p1055
 sg15
-I200
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-LightIt.ttf
+V/usr/X11R6/lib/X11/fonts/TTF/luximbi.ttf
 p1056
 sg21
 g22
@@ -5471,9 +5471,9 @@ g3
 NtRp1057
 (dp1058
 g11
-g17
+g89
 sg13
-VSTIXGeneral
+VCousine for Powerline
 p1059
 sg15
 I400
@@ -5482,7 +5482,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXGeneral.otf
+V/Users/zhaoyu/Library/Fonts/Cousine Italic for Powerline.ttf
 p1060
 sg21
 g22
@@ -5492,9 +5492,9 @@ g3
 NtRp1061
 (dp1062
 g11
-g25
+g17
 sg13
-VCourier New
+VMicrosoft Sans Serif
 p1063
 sg15
 I400
@@ -5503,7 +5503,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Courier New Italic.ttf
+V/Library/Fonts/Microsoft Sans Serif.ttf
 p1064
 sg21
 g22
@@ -5515,16 +5515,16 @@ NtRp1065
 g11
 g17
 sg13
-VArial Black
+VSource Code Pro for Powerline
 p1067
 sg15
-I900
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Black.ttf
+V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline ExtraLight.otf
 p1068
 sg21
 g22
@@ -5534,18 +5534,18 @@ g3
 NtRp1069
 (dp1070
 g11
-g25
+g17
 sg13
-VRoboto Mono Medium for Powerline
+VSTIXIntegralsUpD
 p1071
 sg15
-I500
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Medium Italic for Powerline.ttf
+V/Library/Fonts/STIXIntUpDBol.otf
 p1072
 sg21
 g22
@@ -5555,18 +5555,18 @@ g3
 NtRp1073
 (dp1074
 g11
-g25
+g89
 sg13
-VSTIXGeneral
+VSource Code Pro
 p1075
 sg15
-I400
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXGeneralItalic.otf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-LightIt.ttf
 p1076
 sg21
 g22
@@ -5578,7 +5578,7 @@ NtRp1077
 g11
 g17
 sg13
-VSerto Urhoy
+VSTIXGeneral
 p1079
 sg15
 I400
@@ -5587,7 +5587,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMUrhoy.otf
+V/Library/Fonts/STIXGeneral.otf
 p1080
 sg21
 g22
@@ -5597,9 +5597,9 @@ g3
 NtRp1081
 (dp1082
 g11
-g17
+g89
 sg13
-VGoha-Tibeb Zemen
+VCourier New
 p1083
 sg15
 I400
@@ -5608,7 +5608,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/GohaTibebZemen.otf
+V/Library/Fonts/Courier New Italic.ttf
 p1084
 sg21
 g22
@@ -5620,16 +5620,16 @@ NtRp1085
 g11
 g17
 sg13
-VSilom
+VArial Black
 p1087
 sg15
-I400
+I900
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Silom.ttf
+V/Library/Fonts/Arial Black.ttf
 p1088
 sg21
 g22
@@ -5639,18 +5639,18 @@ g3
 NtRp1089
 (dp1090
 g11
-g17
+g89
 sg13
-VDejaVu Sans Mono for Powerline
+VRoboto Mono Medium for Powerline
 p1091
 sg15
-I400
+I500
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/DejaVu Sans Mono for Powerline.ttf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Medium Italic for Powerline.ttf
 p1092
 sg21
 g22
@@ -5660,18 +5660,18 @@ g3
 NtRp1093
 (dp1094
 g11
-g17
+g89
 sg13
-VWeibei SC
+VSTIXGeneral
 p1095
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/WeibeiSC-Bold.otf
+V/Library/Fonts/STIXGeneralItalic.otf
 p1096
 sg21
 g22
@@ -5681,9 +5681,9 @@ g3
 NtRp1097
 (dp1098
 g11
-g25
+g17
 sg13
-VSource Code Pro
+VSerto Urhoy
 p1099
 sg15
 I400
@@ -5692,7 +5692,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-It.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMUrhoy.otf
 p1100
 sg21
 g22
@@ -5704,7 +5704,7 @@ NtRp1101
 g11
 g17
 sg13
-VYuppy TC
+VGoha-Tibeb Zemen
 p1103
 sg15
 I400
@@ -5713,7 +5713,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/YuppyTC-Regular.otf
+V/usr/X11/lib/X11/fonts/OTF/GohaTibebZemen.otf
 p1104
 sg21
 g22
@@ -5725,7 +5725,7 @@ NtRp1105
 g11
 g17
 sg13
-VSystem Font
+VSilom
 p1107
 sg15
 I400
@@ -5734,7 +5734,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-RegularG1.otf
+V/Library/Fonts/Silom.ttf
 p1108
 sg21
 g22
@@ -5746,7 +5746,7 @@ NtRp1109
 g11
 g17
 sg13
-VSystem Font
+VDejaVu Sans Mono for Powerline
 p1111
 sg15
 I400
@@ -5755,7 +5755,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Thin.otf
+V/Users/zhaoyu/Library/Fonts/DejaVu Sans Mono for Powerline.ttf
 p1112
 sg21
 g22
@@ -5767,16 +5767,16 @@ NtRp1113
 g11
 g17
 sg13
-VSTIXSizeFourSym
+VWeibei SC
 p1115
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizFourSymReg.otf
+V/Library/Fonts/WeibeiSC-Bold.otf
 p1116
 sg21
 g22
@@ -5786,9 +5786,9 @@ g3
 NtRp1117
 (dp1118
 g11
-g17
+g89
 sg13
-VMeslo LG S for Powerline
+VSource Code Pro
 p1119
 sg15
 I400
@@ -5797,7 +5797,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Meslo LG S Regular for Powerline.otf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-It.ttf
 p1120
 sg21
 g22
@@ -5809,7 +5809,7 @@ NtRp1121
 g11
 g17
 sg13
-VApple Chancery
+VYuppy TC
 p1123
 sg15
 I400
@@ -5818,7 +5818,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Apple Chancery.ttf
+V/Library/Fonts/YuppyTC-Regular.otf
 p1124
 sg21
 g22
@@ -5830,7 +5830,7 @@ NtRp1125
 g11
 g17
 sg13
-VAnonymous Pro for Powerline
+VSystem Font
 p1127
 sg15
 I400
@@ -5839,7 +5839,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Anonymice Powerline.ttf
+V/System/Library/Fonts/SFNSText-RegularG1.otf
 p1128
 sg21
 g22
@@ -5849,18 +5849,18 @@ g3
 NtRp1129
 (dp1130
 g11
-g25
+g17
 sg13
-VRoboto Mono Light for Powerline
+VSystem Font
 p1131
 sg15
-I200
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Roboto Mono Light Italic for Powerline.ttf
+V/System/Library/Fonts/SFNSDisplay-Thin.otf
 p1132
 sg21
 g22
@@ -5872,7 +5872,7 @@ NtRp1133
 g11
 g17
 sg13
-VTeamViewer12
+VSTIXSizeFourSym
 p1135
 sg15
 I400
@@ -5881,7 +5881,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/TeamViewer12.otf
+V/Library/Fonts/STIXSizFourSymReg.otf
 p1136
 sg21
 g22
@@ -5893,7 +5893,7 @@ NtRp1137
 g11
 g17
 sg13
-VWingdings 3
+VMeslo LG S for Powerline
 p1139
 sg15
 I400
@@ -5902,7 +5902,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Wingdings 3.ttf
+V/Users/zhaoyu/Library/Fonts/Meslo LG S Regular for Powerline.otf
 p1140
 sg21
 g22
@@ -5912,18 +5912,18 @@ g3
 NtRp1141
 (dp1142
 g11
-g25
+g17
 sg13
-VSTIXGeneral
+VApple Chancery
 p1143
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXGeneralBolIta.otf
+V/Library/Fonts/Apple Chancery.ttf
 p1144
 sg21
 g22
@@ -5933,18 +5933,18 @@ g3
 NtRp1145
 (dp1146
 g11
-g25
+g17
 sg13
-VUbuntu Mono derivative Powerline
+VAnonymous Pro for Powerline
 p1147
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline Bold Italic.ttf
+V/Users/zhaoyu/Library/Fonts/Anonymice Powerline.ttf
 p1148
 sg21
 g22
@@ -5954,18 +5954,18 @@ g3
 NtRp1149
 (dp1150
 g11
-g17
+g89
 sg13
-VSTIXIntegralsUpSm
+VRoboto Mono Light for Powerline
 p1151
 sg15
-I700
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntUpSmBol.otf
+V/Users/zhaoyu/Library/Fonts/Roboto Mono Light Italic for Powerline.ttf
 p1152
 sg21
 g22
@@ -5977,7 +5977,7 @@ NtRp1153
 g11
 g17
 sg13
-VLao Sangam MN
+VTeamViewer12
 p1155
 sg15
 I400
@@ -5986,7 +5986,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Lao Sangam MN.ttf
+V/Library/Fonts/TeamViewer12.otf
 p1156
 sg21
 g22
@@ -5998,7 +5998,7 @@ NtRp1157
 g11
 g17
 sg13
-VTrattatello
+VWingdings 3
 p1159
 sg15
 I400
@@ -6007,7 +6007,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Trattatello.ttf
+V/Library/Fonts/Wingdings 3.ttf
 p1160
 sg21
 g22
@@ -6017,9 +6017,9 @@ g3
 NtRp1161
 (dp1162
 g11
-g17
+g89
 sg13
-VLuxi Sans
+VSTIXGeneral
 p1163
 sg15
 I700
@@ -6028,7 +6028,7 @@ g17
 sg18
 g17
 sg19
-V/usr/X11R6/lib/X11/fonts/TTF/luxisb.ttf
+V/Library/Fonts/STIXGeneralBolIta.otf
 p1164
 sg21
 g22
@@ -6038,9 +6038,9 @@ g3
 NtRp1165
 (dp1166
 g11
-g17
+g89
 sg13
-VLiberation Mono for Powerline
+VUbuntu Mono derivative Powerline
 p1167
 sg15
 I700
@@ -6049,7 +6049,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Literation Mono Powerline Bold.ttf
+V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline Bold Italic.ttf
 p1168
 sg21
 g22
@@ -6059,18 +6059,18 @@ g3
 NtRp1169
 (dp1170
 g11
-g25
+g17
 sg13
-VUbuntu Mono derivative Powerline
+VSTIXIntegralsUpSm
 p1171
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline Italic.ttf
+V/Library/Fonts/STIXIntUpSmBol.otf
 p1172
 sg21
 g22
@@ -6082,16 +6082,16 @@ NtRp1173
 g11
 g17
 sg13
-VSTIXSizeOneSym
+VLao Sangam MN
 p1175
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizOneSymBol.otf
+V/Library/Fonts/Lao Sangam MN.ttf
 p1176
 sg21
 g22
@@ -6103,7 +6103,7 @@ NtRp1177
 g11
 g17
 sg13
-VComic Sans MS
+VTrattatello
 p1179
 sg15
 I400
@@ -6112,7 +6112,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Comic Sans MS.ttf
+V/Library/Fonts/Trattatello.ttf
 p1180
 sg21
 g22
@@ -6124,16 +6124,16 @@ NtRp1181
 g11
 g17
 sg13
-VSTIXSizeTwoSym
+VLuxi Sans
 p1183
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizTwoSymReg.otf
+V/usr/X11R6/lib/X11/fonts/TTF/luxisb.ttf
 p1184
 sg21
 g22
@@ -6145,16 +6145,16 @@ NtRp1185
 g11
 g17
 sg13
-VEstrangelo Nisibin Outline
+VLiberation Mono for Powerline
 p1187
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMNisibinOutline.otf
+V/Users/zhaoyu/Library/Fonts/Literation Mono Powerline Bold.ttf
 p1188
 sg21
 g22
@@ -6164,9 +6164,9 @@ g3
 NtRp1189
 (dp1190
 g11
-g17
+g89
 sg13
-VBodoni Ornaments
+VUbuntu Mono derivative Powerline
 p1191
 sg15
 I400
@@ -6175,7 +6175,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Bodoni Ornaments.ttf
+V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline Italic.ttf
 p1192
 sg21
 g22
@@ -6187,7 +6187,7 @@ NtRp1193
 g11
 g17
 sg13
-VSTIXSizeFourSym
+VSTIXSizeOneSym
 p1195
 sg15
 I700
@@ -6196,7 +6196,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizFourSymBol.otf
+V/Library/Fonts/STIXSizOneSymBol.otf
 p1196
 sg21
 g22
@@ -6208,7 +6208,7 @@ NtRp1197
 g11
 g17
 sg13
-VSystem Font
+VComic Sans MS
 p1199
 sg15
 I400
@@ -6217,7 +6217,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSText-BoldG3.otf
+V/Library/Fonts/Comic Sans MS.ttf
 p1200
 sg21
 g22
@@ -6229,16 +6229,16 @@ NtRp1201
 g11
 g17
 sg13
-VArial
+VSTIXSizeTwoSym
 p1203
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Arial Bold.ttf
+V/Library/Fonts/STIXSizTwoSymReg.otf
 p1204
 sg21
 g22
@@ -6250,16 +6250,16 @@ NtRp1205
 g11
 g17
 sg13
-VSource Code Pro
+VEstrangelo Nisibin Outline
 p1207
 sg15
-I200
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/SourceCodePro-ExtraLight.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMNisibinOutline.otf
 p1208
 sg21
 g22
@@ -6271,16 +6271,16 @@ NtRp1209
 g11
 g17
 sg13
-VGeorgia
+VBodoni Ornaments
 p1211
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Georgia Bold.ttf
+V/Library/Fonts/Bodoni Ornaments.ttf
 p1212
 sg21
 g22
@@ -6292,16 +6292,16 @@ NtRp1213
 g11
 g17
 sg13
-VSystem Font
+VSTIXSizeFourSym
 p1215
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Semibold.otf
+V/Library/Fonts/STIXSizFourSymBol.otf
 p1216
 sg21
 g22
@@ -6313,7 +6313,7 @@ NtRp1217
 g11
 g17
 sg13
-VSTIXIntegralsD
+VSystem Font
 p1219
 sg15
 I400
@@ -6322,7 +6322,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntDReg.otf
+V/System/Library/Fonts/SFNSText-BoldG3.otf
 p1220
 sg21
 g22
@@ -6334,16 +6334,16 @@ NtRp1221
 g11
 g17
 sg13
-VGungSeo
+VArial
 p1223
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Gungseouche.ttf
+V/Library/Fonts/Arial Bold.ttf
 p1224
 sg21
 g22
@@ -6355,7 +6355,7 @@ NtRp1225
 g11
 g17
 sg13
-VSource Code Pro for Powerline
+VSource Code Pro
 p1227
 sg15
 I200
@@ -6364,7 +6364,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Light.otf
+V/Users/zhaoyu/Library/Fonts/SourceCodePro-ExtraLight.ttf
 p1228
 sg21
 g22
@@ -6374,18 +6374,18 @@ g3
 NtRp1229
 (dp1230
 g11
-g25
+g17
 sg13
-VSerto Jerusalem
+VGeorgia
 p1231
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalemItalic.otf
+V/Library/Fonts/Georgia Bold.ttf
 p1232
 sg21
 g22
@@ -6397,16 +6397,16 @@ NtRp1233
 g11
 g17
 sg13
-VSource Code Pro for Powerline
+VSystem Font
 p1235
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Semibold.otf
+V/System/Library/Fonts/SFNSDisplay-Semibold.otf
 p1236
 sg21
 g22
@@ -6418,16 +6418,16 @@ NtRp1237
 g11
 g17
 sg13
-VSTIXSizeTwoSym
+VSTIXIntegralsD
 p1239
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXSizTwoSymBol.otf
+V/Library/Fonts/STIXIntDReg.otf
 p1240
 sg21
 g22
@@ -6439,7 +6439,7 @@ NtRp1241
 g11
 g17
 sg13
-VWingdings
+VGungSeo
 p1243
 sg15
 I400
@@ -6448,7 +6448,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Wingdings.ttf
+V/Library/Fonts/Gungseouche.ttf
 p1244
 sg21
 g22
@@ -6460,16 +6460,16 @@ NtRp1245
 g11
 g17
 sg13
-VImpact
+VSource Code Pro for Powerline
 p1247
 sg15
-I400
+I200
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Impact.ttf
+V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Light.otf
 p1248
 sg21
 g22
@@ -6479,9 +6479,9 @@ g3
 NtRp1249
 (dp1250
 g11
-g25
+g89
 sg13
-VHack
+VSerto Jerusalem
 p1251
 sg15
 I400
@@ -6490,7 +6490,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Hack-Italic.ttf
+V/usr/X11/lib/X11/fonts/OTF/SyrCOMJerusalemItalic.otf
 p1252
 sg21
 g22
@@ -6502,7 +6502,7 @@ NtRp1253
 g11
 g17
 sg13
-VTahoma
+VSource Code Pro for Powerline
 p1255
 sg15
 I700
@@ -6511,7 +6511,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/Tahoma Bold.ttf
+V/Users/zhaoyu/Library/Fonts/Sauce Code Powerline Semibold.otf
 p1256
 sg21
 g22
@@ -6523,7 +6523,7 @@ NtRp1257
 g11
 g17
 sg13
-VSTIXNonUnicode
+VSTIXSizeTwoSym
 p1259
 sg15
 I700
@@ -6532,7 +6532,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXNonUniBol.otf
+V/Library/Fonts/STIXSizTwoSymBol.otf
 p1260
 sg21
 g22
@@ -6542,18 +6542,18 @@ g3
 NtRp1261
 (dp1262
 g11
-g25
+g17
 sg13
-VGeorgia
+VWingdings
 p1263
 sg15
-I700
+I400
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Georgia Bold Italic.ttf
+V/Library/Fonts/Wingdings.ttf
 p1264
 sg21
 g22
@@ -6565,7 +6565,7 @@ NtRp1265
 g11
 g17
 sg13
-VSystem Font
+VImpact
 p1267
 sg15
 I400
@@ -6574,7 +6574,7 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Heavy.otf
+V/Library/Fonts/Impact.ttf
 p1268
 sg21
 g22
@@ -6584,9 +6584,9 @@ g3
 NtRp1269
 (dp1270
 g11
-g17
+g89
 sg13
-VSTIXIntegralsUpD
+VHack
 p1271
 sg15
 I400
@@ -6595,7 +6595,7 @@ g17
 sg18
 g17
 sg19
-V/Library/Fonts/STIXIntUpDReg.otf
+V/Users/zhaoyu/Library/Fonts/Hack-Italic.ttf
 p1272
 sg21
 g22
@@ -6607,16 +6607,16 @@ NtRp1273
 g11
 g17
 sg13
-VSathu
+VTahoma
 p1275
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Library/Fonts/Sathu.ttf
+V/Library/Fonts/Tahoma Bold.ttf
 p1276
 sg21
 g22
@@ -6628,16 +6628,16 @@ NtRp1277
 g11
 g17
 sg13
-VMeslo LG M for Powerline
+VSTIXNonUnicode
 p1279
 sg15
-I400
+I700
 sg16
 g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Meslo LG M Regular for Powerline.otf
+V/Library/Fonts/STIXNonUniBol.otf
 p1280
 sg21
 g22
@@ -6647,9 +6647,9 @@ g3
 NtRp1281
 (dp1282
 g11
-g17
+g89
 sg13
-VUbuntu Mono derivative Powerline
+VGeorgia
 p1283
 sg15
 I700
@@ -6658,7 +6658,7 @@ g17
 sg18
 g17
 sg19
-V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline Bold.ttf
+V/Library/Fonts/Georgia Bold Italic.ttf
 p1284
 sg21
 g22
@@ -6679,41 +6679,146 @@ g17
 sg18
 g17
 sg19
-V/System/Library/Fonts/SFNSDisplay-Regular.otf
+V/System/Library/Fonts/SFNSDisplay-Heavy.otf
 p1288
 sg21
 g22
-sbasS'defaultFamily'
-p1289
+sbag1
+(g8
+g3
+NtRp1289
 (dp1290
-Vafm
+g11
+g17
+sg13
+VSTIXIntegralsUpD
 p1291
-VHelvetica
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/Library/Fonts/STIXIntUpDReg.otf
 p1292
-sVttf
-p1293
-VBitstream Vera Sans
-p1294
-ssS'ttffiles'
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp1293
+(dp1294
+g11
+g17
+sg13
+VSathu
 p1295
-(lp1296
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/Library/Fonts/Sathu.ttf
+p1296
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp1297
+(dp1298
+g11
+g17
+sg13
+VMeslo LG M for Powerline
+p1299
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/Users/zhaoyu/Library/Fonts/Meslo LG M Regular for Powerline.otf
+p1300
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp1301
+(dp1302
+g11
+g17
+sg13
+VUbuntu Mono derivative Powerline
+p1303
+sg15
+I700
+sg16
+g17
+sg18
+g17
+sg19
+V/Users/zhaoyu/Library/Fonts/Ubuntu Mono derivative Powerline Bold.ttf
+p1304
+sg21
+g22
+sbag1
+(g8
+g3
+NtRp1305
+(dp1306
+g11
+g17
+sg13
+VSystem Font
+p1307
+sg15
+I400
+sg16
+g17
+sg18
+g17
+sg19
+V/System/Library/Fonts/SFNSDisplay-Regular.otf
+p1308
+sg21
+g22
+sbasS'defaultFamily'
+p1309
+(dp1310
+Vafm
+p1311
+VHelvetica
+p1312
+sVttf
+p1313
+VBitstream Vera Sans
+p1314
+ssS'ttffiles'
+p1315
+(lp1316
 g20
-ag27
-ag31
-ag35
-ag39
-ag43
-ag47
-ag51
-ag55
-ag59
-ag63
-ag67
-ag71
-ag75
-ag79
-ag83
-ag87
+ag26
+ag30
+ag34
+ag38
+ag42
+ag46
+ag50
+ag54
+ag58
+ag62
+ag66
+ag70
+ag74
+ag78
+ag82
+ag86
 ag91
 ag95
 ag99
@@ -6733,14 +6838,14 @@ ag151
 ag155
 ag159
 aV/usr/X11R6/lib/X11/fonts/TTF/VeraBd.ttf
-p1297
+p1317
 ag163
 ag167
 ag171
 aV/usr/X11/lib/X11/fonts/TTF/VeraIt.ttf
-p1298
+p1318
 aV/usr/X11R6/lib/X11/fonts/TTF/VeraBI.ttf
-p1299
+p1319
 ag175
 ag179
 ag183
@@ -6750,7 +6855,7 @@ ag195
 ag199
 ag203
 aV/usr/X11/lib/X11/fonts/TTF/VeraSe.ttf
-p1300
+p1320
 ag207
 ag211
 ag216
@@ -6759,33 +6864,33 @@ ag224
 ag228
 ag232
 ag236
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraMoIt.ttf
-p1301
 ag240
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraMoIt.ttf
+p1321
 ag244
-aV/usr/X11/lib/X11/fonts/TTF/VeraBd.ttf
-p1302
 ag248
+aV/usr/X11/lib/X11/fonts/TTF/VeraBd.ttf
+p1322
 ag252
 ag256
 ag260
 ag264
 ag268
-aV/usr/X11/lib/X11/fonts/TTF/Vera.ttf
-p1303
-aV/Library/Fonts/NISC18030.ttf
-p1304
 ag272
 ag276
 ag280
+aV/usr/X11/lib/X11/fonts/TTF/Vera.ttf
+p1323
+aV/Library/Fonts/NISC18030.ttf
+p1324
 ag284
 ag288
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraMoBI.ttf
-p1305
 ag292
 ag296
 ag300
 ag304
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraMoBI.ttf
+p1325
 ag308
 ag312
 ag316
@@ -6794,13 +6899,13 @@ ag324
 ag328
 ag332
 ag336
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraMono.ttf
-p1306
 ag340
 ag344
 ag348
 ag352
 ag356
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraMono.ttf
+p1326
 ag360
 ag364
 ag368
@@ -6838,13 +6943,13 @@ ag492
 ag496
 ag500
 ag504
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraSe.ttf
-p1307
 ag508
 ag512
 ag516
 ag520
 ag524
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraSe.ttf
+p1327
 ag528
 ag532
 ag536
@@ -6862,49 +6967,49 @@ ag580
 ag584
 ag588
 ag592
-aV/usr/X11/lib/X11/fonts/TTF/VeraMoBd.ttf
-p1308
-aV/usr/X11/lib/X11/fonts/TTF/VeraMono.ttf
-p1309
 ag596
 ag600
 ag604
 ag608
 ag612
+aV/usr/X11/lib/X11/fonts/TTF/VeraMoBd.ttf
+p1328
+aV/usr/X11/lib/X11/fonts/TTF/VeraMono.ttf
+p1329
 ag616
 ag620
 ag624
 ag628
 ag632
-aV/usr/X11R6/lib/X11/fonts/TTF/luxisbi.ttf
-p1310
 ag636
 ag640
 ag644
 ag648
 ag652
+aV/usr/X11R6/lib/X11/fonts/TTF/luxisbi.ttf
+p1330
 ag656
 ag660
 ag664
 ag668
 ag672
-aV/System/Library/Fonts/Apple Color Emoji.ttf
-p1311
 ag676
 ag680
 ag684
 ag688
 ag692
+aV/System/Library/Fonts/Apple Color Emoji.ttf
+p1331
 ag696
 ag700
 ag704
-aV/usr/X11/lib/X11/fonts/TTF/VeraMoBI.ttf
-p1312
 ag708
 ag712
 ag716
 ag720
 ag724
+aV/usr/X11/lib/X11/fonts/TTF/VeraMoBI.ttf
+p1332
 ag728
 ag732
 ag736
@@ -6914,13 +7019,13 @@ ag748
 ag752
 ag756
 ag760
-aV/usr/X11/lib/X11/fonts/TTF/luxirri.ttf
-p1313
 ag764
 ag768
 ag772
 ag776
 ag780
+aV/usr/X11/lib/X11/fonts/TTF/luxirri.ttf
+p1333
 ag784
 ag788
 ag792
@@ -6929,49 +7034,49 @@ ag800
 ag804
 ag808
 ag812
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraIt.ttf
-p1314
 ag816
 ag820
 ag824
 ag828
 ag832
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraIt.ttf
+p1334
 ag836
 ag840
 ag844
 ag848
 ag852
-aV/usr/X11R6/lib/X11/fonts/TTF/Vera.ttf
-p1315
 ag856
 ag860
 ag864
 ag868
 ag872
-aV/usr/X11/lib/X11/fonts/TTF/luxirbi.ttf
-p1316
+aV/usr/X11R6/lib/X11/fonts/TTF/Vera.ttf
+p1335
 ag876
 ag880
 ag884
-aV/usr/X11/lib/X11/fonts/TTF/luxirb.ttf
-p1317
 ag888
-aV/usr/X11/lib/X11/fonts/TTF/VeraMoIt.ttf
-p1318
 ag892
+aV/usr/X11/lib/X11/fonts/TTF/luxirbi.ttf
+p1336
 ag896
 ag900
 ag904
+aV/usr/X11/lib/X11/fonts/TTF/luxirb.ttf
+p1337
 ag908
+aV/usr/X11/lib/X11/fonts/TTF/VeraMoIt.ttf
+p1338
 ag912
 ag916
-aV/usr/X11/lib/X11/fonts/TTF/VeraBI.ttf
-p1319
 ag920
 ag924
 ag928
 ag932
 ag936
+aV/usr/X11/lib/X11/fonts/TTF/VeraBI.ttf
+p1339
 ag940
 ag944
 ag948
@@ -6981,27 +7086,27 @@ ag960
 ag964
 ag968
 ag972
-aV/usr/X11R6/lib/X11/fonts/TTF/luxisr.ttf
-p1320
 ag976
-aV/usr/X11/lib/X11/fonts/TTF/VeraSeBd.ttf
-p1321
 ag980
 ag984
 ag988
 ag992
+aV/usr/X11R6/lib/X11/fonts/TTF/luxisr.ttf
+p1340
 ag996
+aV/usr/X11/lib/X11/fonts/TTF/VeraSeBd.ttf
+p1341
 ag1000
 ag1004
 ag1008
 ag1012
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraSeBd.ttf
-p1322
 ag1016
 ag1020
 ag1024
 ag1028
 ag1032
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraSeBd.ttf
+p1342
 ag1036
 ag1040
 ag1044
@@ -7011,13 +7116,13 @@ ag1056
 ag1060
 ag1064
 ag1068
-aV/usr/X11/lib/X11/fonts/TTF/luxirr.ttf
-p1323
 ag1072
 ag1076
 ag1080
 ag1084
 ag1088
+aV/usr/X11/lib/X11/fonts/TTF/luxirr.ttf
+p1343
 ag1092
 ag1096
 ag1100
@@ -7027,2023 +7132,2028 @@ ag1112
 ag1116
 ag1120
 ag1124
-aV/usr/X11R6/lib/X11/fonts/TTF/luximb.ttf
-p1324
-aV/usr/X11/lib/X11/fonts/TTF/luximr.ttf
-p1325
 ag1128
 ag1132
 ag1136
 ag1140
 ag1144
+aV/usr/X11R6/lib/X11/fonts/TTF/luximb.ttf
+p1344
+aV/usr/X11/lib/X11/fonts/TTF/luximr.ttf
+p1345
 ag1148
 ag1152
 ag1156
-aV/usr/X11R6/lib/X11/fonts/TTF/GohaTibebZemen.ttf
-p1326
 ag1160
 ag1164
 ag1168
 ag1172
 ag1176
+aV/usr/X11R6/lib/X11/fonts/TTF/GohaTibebZemen.ttf
+p1346
 ag1180
 ag1184
 ag1188
 ag1192
 ag1196
 ag1200
-aV/usr/X11R6/lib/X11/fonts/TTF/VeraMoBd.ttf
-p1327
 ag1204
 ag1208
-aV/usr/X11/lib/X11/fonts/TTF/luxisb.ttf
-p1328
 ag1212
 ag1216
 ag1220
+aV/usr/X11R6/lib/X11/fonts/TTF/VeraMoBd.ttf
+p1347
 ag1224
 ag1228
+aV/usr/X11/lib/X11/fonts/TTF/luxisb.ttf
+p1348
 ag1232
 ag1236
-aV/usr/X11R6/lib/X11/fonts/TTF/luxisri.ttf
-p1329
 ag1240
 ag1244
 ag1248
 ag1252
 ag1256
+aV/usr/X11R6/lib/X11/fonts/TTF/luxisri.ttf
+p1349
 ag1260
 ag1264
 ag1268
 ag1272
 ag1276
-aV/usr/X11R6/lib/X11/fonts/TTF/luximri.ttf
-p1330
 ag1280
 ag1284
 ag1288
+ag1292
+ag1296
+aV/usr/X11R6/lib/X11/fonts/TTF/luximri.ttf
+p1350
+ag1300
+ag1304
+ag1308
 aV/usr/X11/lib/X11/fonts/TTF/luximbi.ttf
-p1331
+p1351
 asS'_FontManager__default_weight'
-p1332
+p1352
 Vnormal
-p1333
+p1353
 sS'_version'
-p1334
+p1354
 I101
 sS'default_size'
-p1335
-NsS'defaultFont'
-p1336
-(dp1337
-g1291
-V/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvlo8a.afm
-p1338
-sg1293
-g131
-ssS'afmfiles'
-p1339
-(lp1340
-g1338
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrr8a.afm
-p1341
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagd8a.afm
-p1342
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkdi8a.afm
-p1343
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagdo8a.afm
-p1344
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncbi8a.afm
-p1345
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvr8a.afm
-p1346
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putri8a.afm
-p1347
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-BoldOblique.afm
-p1348
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagko8a.afm
-p1349
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplri8a.afm
-p1350
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkl8a.afm
-p1351
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplb8a.afm
-p1352
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmex10.afm
-p1353
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmb8a.afm
-p1354
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvb8a.afm
 p1355
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmri8a.afm
+NsS'defaultFont'
 p1356
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/psyr.afm
-p1357
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrb8a.afm
+(dp1357
+g1311
+V/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Symbol.afm
 p1358
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Italic.afm
+sg1313
+g123
+ssS'afmfiles'
 p1359
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvr8an.afm
-p1360
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkli8a.afm
+(lp1360
+g1358
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmmi10.afm
 p1361
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrro8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-BoldOblique.afm
 p1362
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/ZapfDingbats.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkl8a.afm
 p1363
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncr8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagdo8a.afm
 p1364
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Roman.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Oblique.afm
 p1365
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvl8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmbi8a.afm
 p1366
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmri8a.afm
 p1367
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncri8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplr8a.afm
 p1368
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrbo8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8an.afm
 p1369
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplbi8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Italic.afm
 p1370
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvro8an.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8a.afm
 p1371
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Bold.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmr8a.afm
 p1372
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Oblique.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrbo8a.afm
 p1373
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmr8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Roman.afm
 p1374
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-BoldOblique.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvb8a.afm
 p1375
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkd8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-BoldOblique.afm
 p1376
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier.afm
 p1377
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvb8an.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmex10.afm
 p1378
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Bold.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagk8a.afm
 p1379
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmbi8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Oblique.afm
 p1380
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmtt10.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkli8a.afm
 p1381
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncr8a.afm
 p1382
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagk8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrb8a.afm
 p1383
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-BoldItalic.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmtt10.afm
 p1384
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmr10.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica.afm
 p1385
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvro8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvl8a.afm
 p1386
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putbi8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmr10.afm
 p1387
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncb8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagd8a.afm
 p1388
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putb8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkdi8a.afm
 p1389
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pzcmi8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/ptmb8a.afm
 p1390
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Oblique.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplb8a.afm
 p1391
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8an.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvr8an.afm
 p1392
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplr8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putr8a.afm
 p1393
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Symbol.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putb8a.afm
 p1394
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pzdr.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pbkd8a.afm
 p1395
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmsy10.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplbi8a.afm
 p1396
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmmi10.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncri8a.afm
 p1397
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Bold.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvr8a.afm
 p1398
-aV/Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putr8a.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pagko8a.afm
 p1399
-aV/usr/X11/lib/X11/fonts/Type1/UTB_____.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pzdr.afm
 p1400
-aV/usr/X11/lib/X11/fonts/Type1/c0583bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Bold.afm
 p1401
-aV/usr/X11/lib/X11/fonts/Type1/l049036t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/ZapfDingbats.afm
 p1402
-aV/usr/X11/lib/X11/fonts/Type1/c0649bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Bold.afm
 p1403
-aV/usr/X11/lib/X11/fonts/Type1/UTRG____.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putbi8a.afm
 p1404
-aV/usr/X11/lib/X11/fonts/Type1/c0582bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrr8a.afm
 p1405
-aV/usr/X11/lib/X11/fonts/Type1/c0648bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/putri8a.afm
 p1406
-aV/usr/X11/lib/X11/fonts/Type1/c0633bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Bold.afm
 p1407
-aV/usr/X11/lib/X11/fonts/Type1/l048013t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/cmsy10.afm
 p1408
-aV/usr/X11/lib/X11/fonts/Type1/courb.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-BoldItalic.afm
 p1409
-aV/usr/X11/lib/X11/fonts/Type1/c0419bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvro8a.afm
 p1410
-aV/usr/X11/lib/X11/fonts/Type1/UTI_____.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/psyr.afm
 p1411
-aV/usr/X11/lib/X11/fonts/Type1/l049016t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pzcmi8a.afm
 p1412
-aV/usr/X11/lib/X11/fonts/Type1/l048033t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pcrro8a.afm
 p1413
-aV/usr/X11/lib/X11/fonts/Type1/l048016t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvlo8a.afm
 p1414
-aV/usr/X11/lib/X11/fonts/Type1/l048036t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvro8an.afm
 p1415
-aV/usr/X11/lib/X11/fonts/Type1/courbi.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/phvb8an.afm
 p1416
-aV/usr/X11/lib/X11/fonts/Type1/c0632bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncbi8a.afm
 p1417
-aV/usr/X11/lib/X11/fonts/Type1/l049013t.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pplri8a.afm
 p1418
-aV/usr/X11/lib/X11/fonts/Type1/c0611bt_.afm
+aV/Applications/vapor.app/Contents/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/afm/pncb8a.afm
 p1419
-aV/usr/X11/lib/X11/fonts/Type1/l047036t.afm
+aV/usr/X11/lib/X11/fonts/Type1/UTB_____.afm
 p1420
-aV/usr/X11/lib/X11/fonts/Type1/l047016t.afm
+aV/usr/X11/lib/X11/fonts/Type1/c0583bt_.afm
 p1421
-aV/usr/X11/lib/X11/fonts/Type1/l047033t.afm
+aV/usr/X11/lib/X11/fonts/Type1/l049036t.afm
 p1422
-aV/usr/X11/lib/X11/fonts/Type1/l047013t.afm
+aV/usr/X11/lib/X11/fonts/Type1/c0649bt_.afm
 p1423
-aV/usr/X11/lib/X11/fonts/Type1/l049033t.afm
+aV/usr/X11/lib/X11/fonts/Type1/UTRG____.afm
 p1424
-aV/usr/X11/lib/X11/fonts/Type1/UTBI____.afm
+aV/usr/X11/lib/X11/fonts/Type1/c0582bt_.afm
 p1425
-aV/usr/X11/lib/X11/fonts/Type1/cour.afm
+aV/usr/X11/lib/X11/fonts/Type1/c0648bt_.afm
 p1426
-aV/usr/X11/lib/X11/fonts/Type1/couri.afm
+aV/usr/X11/lib/X11/fonts/Type1/c0633bt_.afm
 p1427
-asS'afmlist'
+aV/usr/X11/lib/X11/fonts/Type1/l048013t.afm
 p1428
-(lp1429
+aV/usr/X11/lib/X11/fonts/Type1/courb.afm
+p1429
+aV/usr/X11/lib/X11/fonts/Type1/c0419bt_.afm
+p1430
+aV/usr/X11/lib/X11/fonts/Type1/UTI_____.afm
+p1431
+aV/usr/X11/lib/X11/fonts/Type1/l049016t.afm
+p1432
+aV/usr/X11/lib/X11/fonts/Type1/l048033t.afm
+p1433
+aV/usr/X11/lib/X11/fonts/Type1/l048016t.afm
+p1434
+aV/usr/X11/lib/X11/fonts/Type1/l048036t.afm
+p1435
+aV/usr/X11/lib/X11/fonts/Type1/courbi.afm
+p1436
+aV/usr/X11/lib/X11/fonts/Type1/c0632bt_.afm
+p1437
+aV/usr/X11/lib/X11/fonts/Type1/l049013t.afm
+p1438
+aV/usr/X11/lib/X11/fonts/Type1/c0611bt_.afm
+p1439
+aV/usr/X11/lib/X11/fonts/Type1/l047036t.afm
+p1440
+aV/usr/X11/lib/X11/fonts/Type1/l047016t.afm
+p1441
+aV/usr/X11/lib/X11/fonts/Type1/l047033t.afm
+p1442
+aV/usr/X11/lib/X11/fonts/Type1/l047013t.afm
+p1443
+aV/usr/X11/lib/X11/fonts/Type1/l049033t.afm
+p1444
+aV/usr/X11/lib/X11/fonts/Type1/UTBI____.afm
+p1445
+aV/usr/X11/lib/X11/fonts/Type1/cour.afm
+p1446
+aV/usr/X11/lib/X11/fonts/Type1/couri.afm
+p1447
+asS'afmlist'
+p1448
+(lp1449
 g1
 (g8
 g3
-NtRp1430
-(dp1431
+NtRp1450
+(dp1451
 g11
-Vitalic
-p1432
-sg13
-S'Helvetica'
-p1433
-sg15
-I200
-sg16
 Vnormal
-p1434
-sg18
-g1434
-sg19
-g1338
-sg21
-Vscalable
-p1435
-sbag1
-(g8
-g3
-NtRp1436
-(dp1437
-g11
-g1434
+p1452
 sg13
-S'Courier'
-p1438
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1341
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1439
-(dp1440
-g11
-g1434
-sg13
-S'ITC Avant Garde Gothic'
-p1441
-sg15
-I600
-sg16
-g1434
-sg18
-g1434
-sg19
-g1342
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1442
-(dp1443
-g11
-g1432
-sg13
-S'ITC Bookman'
-p1444
-sg15
-I600
-sg16
-g1434
-sg18
-g1434
-sg19
-g1343
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1445
-(dp1446
-g11
-g1432
-sg13
-S'ITC Avant Garde Gothic'
-p1447
-sg15
-I600
-sg16
-g1434
-sg18
-g1434
-sg19
-g1344
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1448
-(dp1449
-g11
-g1432
-sg13
-S'New Century Schoolbook'
-p1450
-sg15
-I700
-sg16
-g1434
-sg18
-g1434
-sg19
-g1345
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1451
-(dp1452
-g11
-g1434
-sg13
-S'Helvetica'
+S'Symbol'
 p1453
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1346
+g1358
 sg21
-g1435
+Vscalable
+p1454
 sbag1
 (g8
 g3
-NtRp1454
-(dp1455
+NtRp1455
+(dp1456
 g11
-g1432
+Vitalic
+p1457
 sg13
-S'Utopia'
-p1456
-sg15
-I400
-sg16
-g1434
-sg18
-g1434
-sg19
-g1347
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1457
-(dp1458
-g11
-g1432
-sg13
-S'Courier'
-p1459
-sg15
-I700
-sg16
-g1434
-sg18
-g1434
-sg19
-g1348
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1460
-(dp1461
-g11
-g1432
-sg13
-S'ITC Avant Garde Gothic'
-p1462
-sg15
-I400
-sg16
-g1434
-sg18
-g1434
-sg19
-g1349
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1463
-(dp1464
-g11
-g1432
-sg13
-S'Palatino'
-p1465
+S'Computer Modern'
+p1458
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1350
+g1361
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1466
-(dp1467
+NtRp1459
+(dp1460
 g11
-g1434
+g1457
+sg13
+S'Helvetica'
+p1461
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1362
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1462
+(dp1463
+g11
+g1452
 sg13
 S'ITC Bookman'
-p1468
+p1464
 sg15
 I200
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1351
+g1363
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1469
-(dp1470
+NtRp1465
+(dp1466
 g11
-g1434
+g1457
+sg13
+S'ITC Avant Garde Gothic'
+p1467
+sg15
+I600
+sg16
+g1452
+sg18
+g1452
+sg19
+g1364
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1468
+(dp1469
+g11
+g1457
+sg13
+S'Courier'
+p1470
+sg15
+I500
+sg16
+g1452
+sg18
+g1452
+sg19
+g1365
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1471
+(dp1472
+g11
+g1457
+sg13
+S'Times'
+p1473
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1366
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1474
+(dp1475
+g11
+g1457
+sg13
+S'Times'
+p1476
+sg15
+I500
+sg16
+g1452
+sg18
+g1452
+sg19
+g1367
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1477
+(dp1478
+g11
+g1452
 sg13
 S'Palatino'
-p1471
-sg15
-I700
-sg16
-g1434
-sg18
-g1434
-sg19
-g1352
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1472
-(dp1473
-g11
-g1434
-sg13
-S'Computer Modern'
-p1474
+p1479
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1353
+g1368
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1475
-(dp1476
+NtRp1480
+(dp1481
 g11
-g1434
-sg13
-S'Times'
-p1477
-sg15
-I700
-sg16
-g1434
-sg18
-g1434
-sg19
-g1354
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1478
-(dp1479
-g11
-g1434
+g1457
 sg13
 S'Helvetica'
-p1480
+p1482
 sg15
 I700
 sg16
-g1434
-sg18
-g1434
-sg19
-g1355
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1481
-(dp1482
-g11
-g1432
-sg13
-S'Times'
+Vcondensed
 p1483
-sg15
-I500
-sg16
-g1434
 sg18
-g1434
+g1452
 sg19
-g1356
+g1369
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
 NtRp1484
 (dp1485
 g11
-g1434
+g1457
 sg13
-S'Symbol'
+S'Times'
 p1486
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1357
+g1370
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
 NtRp1487
 (dp1488
 g11
-g1434
+g1457
 sg13
-S'Courier'
+S'Helvetica'
 p1489
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1358
+g1371
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
 NtRp1490
 (dp1491
 g11
-g1432
+g1452
 sg13
 S'Times'
 p1492
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
-g1359
+g1372
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
 NtRp1493
 (dp1494
 g11
-g1434
+g1457
 sg13
-S'Helvetica'
+S'Courier'
 p1495
 sg15
-I500
-sg16
-Vcondensed
-p1496
-sg18
-g1434
-sg19
-g1360
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1497
-(dp1498
-g11
-g1432
-sg13
-S'ITC Bookman'
-p1499
-sg15
-I200
-sg16
-g1434
-sg18
-g1434
-sg19
-g1361
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1500
-(dp1501
-g11
-g1432
-sg13
-S'Courier'
-p1502
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1362
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1503
-(dp1504
-g11
-g1434
-sg13
-S'ZapfDingbats'
-p1505
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1363
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1506
-(dp1507
-g11
-g1434
-sg13
-S'New Century Schoolbook'
-p1508
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1364
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1509
-(dp1510
-g11
-g1434
-sg13
-S'Times'
-p1511
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1365
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1512
-(dp1513
-g11
-g1434
-sg13
-S'Helvetica'
-p1514
-sg15
-I200
-sg16
-g1434
-sg18
-g1434
-sg19
-g1366
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1515
-(dp1516
-g11
-g1434
-sg13
-S'Helvetica'
-p1517
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1367
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1518
-(dp1519
-g11
-g1432
-sg13
-S'New Century Schoolbook'
-p1520
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
-sg19
-g1368
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1521
-(dp1522
-g11
-g1432
-sg13
-S'Courier'
-p1523
-sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
-sg19
-g1369
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1524
-(dp1525
-g11
-g1432
-sg13
-S'Palatino'
-p1526
-sg15
-I700
-sg16
-g1434
-sg18
-g1434
-sg19
-g1370
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1527
-(dp1528
-g11
-g1432
-sg13
-S'Helvetica'
-p1529
-sg15
-I500
-sg16
-g1496
-sg18
-g1434
-sg19
-g1371
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1530
-(dp1531
-g11
-g1434
-sg13
-S'Times'
-p1532
-sg15
-I700
-sg16
-g1434
-sg18
-g1434
-sg19
-g1372
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1533
-(dp1534
-g11
-g1432
-sg13
-S'Courier'
-p1535
-sg15
-I500
-sg16
-g1434
-sg18
-g1434
+g1452
 sg19
 g1373
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1536
-(dp1537
+NtRp1496
+(dp1497
 g11
-g1434
+g1452
 sg13
 S'Times'
-p1538
+p1498
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1374
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1539
-(dp1540
+NtRp1499
+(dp1500
 g11
-g1432
+g1452
 sg13
 S'Helvetica'
-p1541
+p1501
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1375
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1542
-(dp1543
+NtRp1502
+(dp1503
 g11
-g1434
+g1457
 sg13
-S'ITC Bookman'
-p1544
+S'Courier'
+p1504
 sg15
-I600
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1376
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1545
-(dp1546
+NtRp1505
+(dp1506
 g11
-g1432
+g1452
 sg13
-S'Helvetica'
-p1547
+S'Courier'
+p1507
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1377
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1548
-(dp1549
+NtRp1508
+(dp1509
 g11
-g1434
+g1452
 sg13
-S'Helvetica'
-p1550
+S'Computer Modern'
+p1510
 sg15
-I700
+I500
 sg16
-g1496
+g1452
 sg18
-g1434
+g1452
 sg19
 g1378
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1551
-(dp1552
+NtRp1511
+(dp1512
 g11
-g1434
+g1452
 sg13
-S'Helvetica'
-p1553
+S'ITC Avant Garde Gothic'
+p1513
 sg15
-I700
+I400
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1379
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1554
-(dp1555
+NtRp1514
+(dp1515
 g11
-g1432
+g1457
 sg13
-S'Times'
-p1556
+S'Helvetica'
+p1516
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1380
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1557
-(dp1558
+NtRp1517
+(dp1518
 g11
-g1434
+g1457
 sg13
-S'Computer Modern'
-p1559
+S'ITC Bookman'
+p1519
 sg15
-I500
+I200
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1381
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1560
-(dp1561
+NtRp1520
+(dp1521
 g11
-g1434
+g1452
 sg13
-S'Courier'
-p1562
+S'New Century Schoolbook'
+p1522
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1382
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1563
-(dp1564
+NtRp1523
+(dp1524
 g11
-g1434
+g1452
 sg13
-S'ITC Avant Garde Gothic'
-p1565
+S'Courier'
+p1525
 sg15
-I400
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1383
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1566
-(dp1567
+NtRp1526
+(dp1527
 g11
-g1432
+g1452
 sg13
-S'Times'
-p1568
+S'Computer Modern'
+p1528
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1384
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1569
-(dp1570
+NtRp1529
+(dp1530
 g11
-g1434
+g1452
 sg13
-S'Computer Modern'
-p1571
+S'Helvetica'
+p1531
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1385
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1572
-(dp1573
+NtRp1532
+(dp1533
 g11
-g1432
+g1452
 sg13
 S'Helvetica'
-p1574
+p1534
 sg15
-I500
+I200
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1386
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1575
-(dp1576
+NtRp1535
+(dp1536
 g11
-g1432
+g1452
 sg13
-S'Utopia'
-p1577
+S'Computer Modern'
+p1537
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1387
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1578
-(dp1579
+NtRp1538
+(dp1539
 g11
-g1434
+g1452
 sg13
-S'New Century Schoolbook'
-p1580
+S'ITC Avant Garde Gothic'
+p1540
 sg15
-I700
+I600
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1388
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1581
-(dp1582
+NtRp1541
+(dp1542
 g11
-g1434
+g1457
 sg13
-S'Utopia'
-p1583
+S'ITC Bookman'
+p1543
 sg15
-I700
+I600
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1389
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1584
-(dp1585
+NtRp1544
+(dp1545
 g11
-g1432
+g1452
 sg13
-S'ITC Zapf Chancery'
-p1586
+S'Times'
+p1546
 sg15
-I500
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1390
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1587
-(dp1588
+NtRp1547
+(dp1548
 g11
-g1432
+g1452
 sg13
-S'Helvetica'
-p1589
+S'Palatino'
+p1549
 sg15
-I500
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1391
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1590
-(dp1591
+NtRp1550
+(dp1551
 g11
-g1432
+g1452
 sg13
 S'Helvetica'
-p1592
+p1552
 sg15
-I700
+I500
 sg16
-g1496
+g1483
 sg18
-g1434
+g1452
 sg19
 g1392
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1593
-(dp1594
+NtRp1553
+(dp1554
 g11
-g1434
+g1452
 sg13
-S'Palatino'
-p1595
+S'Utopia'
+p1555
 sg15
-I500
+I400
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1393
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1596
-(dp1597
+NtRp1556
+(dp1557
 g11
-g1434
+g1452
 sg13
-S'Symbol'
-p1598
+S'Utopia'
+p1558
 sg15
-I500
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1394
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1599
-(dp1600
+NtRp1559
+(dp1560
 g11
-g1434
+g1452
 sg13
-S'ITC Zapf Dingbats'
-p1601
+S'ITC Bookman'
+p1561
 sg15
-I500
+I600
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1395
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1602
-(dp1603
+NtRp1562
+(dp1563
 g11
-g1432
+g1457
 sg13
-S'Computer Modern'
-p1604
+S'Palatino'
+p1564
 sg15
-I500
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1396
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1605
-(dp1606
+NtRp1565
+(dp1566
 g11
-g1432
+g1457
 sg13
-S'Computer Modern'
-p1607
+S'New Century Schoolbook'
+p1567
 sg15
 I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1397
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1608
-(dp1609
+NtRp1568
+(dp1569
 g11
-g1434
+g1452
 sg13
-S'Courier'
-p1610
+S'Helvetica'
+p1570
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1398
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1611
-(dp1612
+NtRp1571
+(dp1572
 g11
-g1434
+g1457
 sg13
-S'Utopia'
-p1613
+S'ITC Avant Garde Gothic'
+p1573
 sg15
 I400
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1399
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1614
-(dp1615
+NtRp1574
+(dp1575
 g11
-g1434
+g1452
 sg13
-S'Utopia'
-p1616
+S'ITC Zapf Dingbats'
+p1576
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1400
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1617
-(dp1618
+NtRp1577
+(dp1578
 g11
-g1434
+g1452
 sg13
-S'Courier 10 Pitch'
-p1619
+S'Courier'
+p1579
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1401
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1620
-(dp1621
+NtRp1580
+(dp1581
 g11
-g1432
+g1452
 sg13
-S'Luxi Serif'
-p1622
+S'ZapfDingbats'
+p1582
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1402
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1623
-(dp1624
+NtRp1583
+(dp1584
 g11
-g1432
+g1452
 sg13
-S'Bitstream Charter'
-p1625
+S'Times'
+p1585
 sg15
-I400
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1403
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1626
-(dp1627
+NtRp1586
+(dp1587
 g11
-g1434
+g1457
 sg13
 S'Utopia'
-p1628
+p1588
 sg15
-I400
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1404
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1629
-(dp1630
+NtRp1589
+(dp1590
 g11
-g1432
+g1452
 sg13
-S'Courier 10 Pitch'
-p1631
+S'Courier'
+p1591
 sg15
-I400
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1405
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1632
-(dp1633
+NtRp1592
+(dp1593
 g11
-g1434
+g1457
 sg13
-S'Bitstream Charter'
-p1634
+S'Utopia'
+p1594
 sg15
 I400
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1406
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1635
-(dp1636
+NtRp1595
+(dp1596
 g11
-g1432
+g1452
 sg13
-S'Bitstream Charter'
-p1637
+S'Helvetica'
+p1597
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1407
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1638
-(dp1639
+NtRp1598
+(dp1599
 g11
-g1434
+g1457
 sg13
-S'Luxi Sans'
-p1640
+S'Computer Modern'
+p1600
 sg15
-I400
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1408
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1641
-(dp1642
+NtRp1601
+(dp1602
 g11
-g1434
+g1457
 sg13
-S'Courier'
-p1643
+S'Times'
+p1603
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1409
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1644
-(dp1645
+NtRp1604
+(dp1605
 g11
-g1434
+g1457
 sg13
-S'Courier 10 Pitch'
-p1646
+S'Helvetica'
+p1606
 sg15
-I400
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1410
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1647
-(dp1648
+NtRp1607
+(dp1608
 g11
-g1432
+g1452
 sg13
-S'Utopia'
-p1649
+S'Symbol'
+p1609
 sg15
-I400
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1411
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1650
-(dp1651
+NtRp1610
+(dp1611
 g11
-g1434
+g1457
 sg13
-S'Luxi Serif'
-p1652
+S'ITC Zapf Chancery'
+p1612
 sg15
-I700
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1412
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1653
-(dp1654
+NtRp1613
+(dp1614
 g11
-g1432
+g1457
 sg13
-S'Luxi Sans'
-p1655
+S'Courier'
+p1615
 sg15
-I400
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1413
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1656
-(dp1657
+NtRp1616
+(dp1617
 g11
-g1434
+g1457
 sg13
-S'Luxi Sans'
-p1658
+S'Helvetica'
+p1618
 sg15
-I700
+I200
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1414
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1659
-(dp1660
+NtRp1619
+(dp1620
 g11
-g1432
+g1457
 sg13
-S'Luxi Sans'
-p1661
+S'Helvetica'
+p1621
 sg15
-I700
+I500
 sg16
-g1434
+g1483
 sg18
-g1434
+g1452
 sg19
 g1415
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1662
-(dp1663
+NtRp1622
+(dp1623
 g11
-g1432
+g1452
 sg13
-S'Courier'
-p1664
+S'Helvetica'
+p1624
 sg15
 I700
 sg16
-g1434
+g1483
 sg18
-g1434
+g1452
 sg19
 g1416
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1665
-(dp1666
+NtRp1625
+(dp1626
 g11
-g1434
+g1457
 sg13
-S'Bitstream Charter'
-p1667
+S'New Century Schoolbook'
+p1627
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1417
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1668
-(dp1669
+NtRp1628
+(dp1629
 g11
-g1434
+g1457
 sg13
-S'Luxi Serif'
-p1670
+S'Palatino'
+p1630
 sg15
-I400
+I500
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1418
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1671
-(dp1672
+NtRp1631
+(dp1632
 g11
-g1432
+g1452
 sg13
-S'Courier 10 Pitch'
-p1673
+S'New Century Schoolbook'
+p1633
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1419
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1674
-(dp1675
+NtRp1634
+(dp1635
 g11
-g1432
+g1452
 sg13
-S'Luxi Mono'
-p1676
+S'Utopia'
+p1636
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1420
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1677
-(dp1678
+NtRp1637
+(dp1638
 g11
-g1434
+g1452
 sg13
-S'Luxi Mono'
-p1679
+S'Courier 10 Pitch'
+p1639
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1421
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1680
-(dp1681
+NtRp1640
+(dp1641
 g11
-g1432
-sg13
-S'Luxi Mono'
-p1682
-sg15
-I400
-sg16
-g1434
-sg18
-g1434
-sg19
-g1422
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1683
-(dp1684
-g11
-g1434
-sg13
-S'Luxi Mono'
-p1685
-sg15
-I400
-sg16
-g1434
-sg18
-g1434
-sg19
-g1423
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1686
-(dp1687
-g11
-g1432
+g1457
 sg13
 S'Luxi Serif'
-p1688
-sg15
-I400
-sg16
-g1434
-sg18
-g1434
-sg19
-g1424
-sg21
-g1435
-sbag1
-(g8
-g3
-NtRp1689
-(dp1690
-g11
-g1432
-sg13
-S'Utopia'
-p1691
+p1642
 sg15
 I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
+sg19
+g1422
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1643
+(dp1644
+g11
+g1457
+sg13
+S'Bitstream Charter'
+p1645
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1423
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1646
+(dp1647
+g11
+g1452
+sg13
+S'Utopia'
+p1648
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1424
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1649
+(dp1650
+g11
+g1457
+sg13
+S'Courier 10 Pitch'
+p1651
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
 sg19
 g1425
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1692
-(dp1693
+NtRp1652
+(dp1653
 g11
-g1434
+g1452
 sg13
-S'Courier'
-p1694
+S'Bitstream Charter'
+p1654
 sg15
 I400
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1426
 sg21
-g1435
+g1454
 sbag1
 (g8
 g3
-NtRp1695
-(dp1696
+NtRp1655
+(dp1656
 g11
-g1432
+g1457
 sg13
-S'Courier'
-p1697
+S'Bitstream Charter'
+p1657
 sg15
-I400
+I700
 sg16
-g1434
+g1452
 sg18
-g1434
+g1452
 sg19
 g1427
 sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1658
+(dp1659
+g11
+g1452
+sg13
+S'Luxi Sans'
+p1660
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1428
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1661
+(dp1662
+g11
+g1452
+sg13
+S'Courier'
+p1663
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1429
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1664
+(dp1665
+g11
+g1452
+sg13
+S'Courier 10 Pitch'
+p1666
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1430
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1667
+(dp1668
+g11
+g1457
+sg13
+S'Utopia'
+p1669
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1431
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1670
+(dp1671
+g11
+g1452
+sg13
+S'Luxi Serif'
+p1672
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1432
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1673
+(dp1674
+g11
+g1457
+sg13
+S'Luxi Sans'
+p1675
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1433
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1676
+(dp1677
+g11
+g1452
+sg13
+S'Luxi Sans'
+p1678
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1434
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1679
+(dp1680
+g11
+g1457
+sg13
+S'Luxi Sans'
+p1681
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
 g1435
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1682
+(dp1683
+g11
+g1457
+sg13
+S'Courier'
+p1684
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1436
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1685
+(dp1686
+g11
+g1452
+sg13
+S'Bitstream Charter'
+p1687
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1437
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1688
+(dp1689
+g11
+g1452
+sg13
+S'Luxi Serif'
+p1690
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1438
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1691
+(dp1692
+g11
+g1457
+sg13
+S'Courier 10 Pitch'
+p1693
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1439
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1694
+(dp1695
+g11
+g1457
+sg13
+S'Luxi Mono'
+p1696
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1440
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1697
+(dp1698
+g11
+g1452
+sg13
+S'Luxi Mono'
+p1699
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1441
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1700
+(dp1701
+g11
+g1457
+sg13
+S'Luxi Mono'
+p1702
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1442
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1703
+(dp1704
+g11
+g1452
+sg13
+S'Luxi Mono'
+p1705
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1443
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1706
+(dp1707
+g11
+g1457
+sg13
+S'Luxi Serif'
+p1708
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1444
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1709
+(dp1710
+g11
+g1457
+sg13
+S'Utopia'
+p1711
+sg15
+I700
+sg16
+g1452
+sg18
+g1452
+sg19
+g1445
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1712
+(dp1713
+g11
+g1452
+sg13
+S'Courier'
+p1714
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1446
+sg21
+g1454
+sbag1
+(g8
+g3
+NtRp1715
+(dp1716
+g11
+g1457
+sg13
+S'Courier'
+p1717
+sg15
+I400
+sg16
+g1452
+sg18
+g1452
+sg19
+g1447
+sg21
+g1454
 sbasb.

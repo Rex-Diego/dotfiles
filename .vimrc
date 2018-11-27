@@ -20,6 +20,7 @@ Plugin 'vim-scripts/taglist.vim'
 Plugin 'godlygeek/tabular.git'
 Plugin 'fholgado/minibufexpl.vim'
 Plugin 'tomasr/molokai'
+Plugin 'lyokha/vim-xkbswitch'
 call vundle#end()
 filetype plugin indent on
 " ###############################################
@@ -156,9 +157,9 @@ if(g:iswindows==1) "允许鼠标的使用
 endif
 
 if(g:islinux==1||g:ismac==1||g:iscygwin==1) "允许鼠标的使用
-    set mouse=a "可以在buffer的任何地方使用鼠标
+    "set mouse=a "可以在buffer的任何地方使用鼠标
     set selection=exclusive
-    set selectmode=mouse,key
+    "set selectmode=mouse,key
 endif
 "}}}
 "=============================================================================="{{{
@@ -177,7 +178,8 @@ if g:isGUI==1 " {{{ gui setting  fold start
     set guioptions-=l
     set guioptions-=L
     if g:ismac==1
-        set fu " mac fullscreen
+        set nofu " mac fullscreen
+        set wrap
     endif
 endif " }}}  gui setting fold end "}}}
 
@@ -190,14 +192,47 @@ set listchars=tab:\|\ ,trail:.,extends:>,precedes:<
 "set listchars=tab:\|\ ,trail:.,extends:>,precedes:<,eol:¬
 "set listchars=trail:.,extends:>,precedes:<,eol:¬
 "设置不自动换行
-set nowrap
-map zL zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl
-map zH zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh
+set wrap lbr
+noremap  <buffer> <silent> k gk
+noremap  <buffer> <silent> j gj
+noremap  <buffer> <silent> 0 g0
+noremap  <buffer> <silent> $ g$
+
+noremap <F8> :call ToggleWrap()<CR>
+function ToggleWrap()
+  if &wrap
+    echo "Wrap OFF"
+    setlocal nowrap
+    set virtualedit=all
+    silent! nunmap <buffer> <Up>
+    silent! nunmap <buffer> <Down>
+    silent! nunmap <buffer> <Home>
+    silent! nunmap <buffer> <End>
+    silent! iunmap <buffer> <Up>
+    silent! iunmap <buffer> <Down>
+    silent! iunmap <buffer> <Home>
+    silent! iunmap <buffer> <End>
+  else
+    echo "Wrap ON"
+    setlocal wrap linebreak nolist
+    set virtualedit=
+    setlocal display+=lastline
+    noremap  <buffer> <silent> <Up>   gk
+    noremap  <buffer> <silent> <Down> gj
+    noremap  <buffer> <silent> <Home> g<Home>
+    noremap  <buffer> <silent> <End>  g<End>
+    inoremap <buffer> <silent> <Up>   <C-o>gk
+    inoremap <buffer> <silent> <Down> <C-o>gj
+    inoremap <buffer> <silent> <Home> <C-o>g<Home>
+    inoremap <buffer> <silent> <End>  <C-o>g<End>
+  endif
+endfunction
+" map zL zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl zl
+" map zH zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh zh
 map <C-H> <C-w>h
 map <C-L> <C-w>l
 map <C-J> <C-w>j
 map <C-K> <C-w>k
-
 
 set sidescroll=3
 set sidescrolloff=10
@@ -296,8 +331,8 @@ set showmatch
 set matchtime=1
 
 " scrooll smooth 
-map <C-U> <C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y>
-map <C-D> <C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E>
+"map <C-U> <C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y><C-Y>
+"map <C-D> <C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E><C-E>
 set scrolloff=3
 "--fold setting--
 set foldmethod=marker " 用marker来定义折叠
@@ -335,6 +370,8 @@ set wildmode=list:full
 "增强模式中的命令行自动完成操作
 set wildmenu
 " }}}  fold end for vim basic setting
+" 自动切换中文输入
+let g:XkbSwitchEnabled = 1
 
 "使用NeoComplete
 let g:NeoComplCache_EnableAtStartup     = 1
@@ -667,6 +704,7 @@ func! RunResult() " {{{ function fold start
 endfunc " }}} function fold end
 "}}}
 
+map <F3> :w<cr>
 "{{{ 进行版权声明的设置
 map <F4> :call TitleDet()<cr>
 function TitleDet() "{{{ function fold start

@@ -6,3 +6,5 @@
 /Users/zhaoyu/soft/anaconda2/envs/tensorflow
 /Users/zhaoyu/soft/anaconda2/envs/uvcdat_nightly
 /Users/zhaoyu/soft/anaconda2/envs/uvcdat_210
+/Users/zhaoyu/soft/anaconda3/envs/ncl_640
+/Users/zhaoyu/soft/anaconda2/envs/uvcdat_210
