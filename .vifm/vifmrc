@@ -143,7 +143,7 @@ mark h ~/
 
 command! df df -h %m 2> /dev/null
 command! diff vim -d %f %F
-command! zip zip -r %f.zip %f
+command! zip zip -r %f.zip %F
 command! run !! ./%f
 command! make !!make %a
 command! mkcd :mkdir %a | cd %a
@@ -367,7 +367,7 @@ nnoremap s :shell<cr>
 nnoremap S :sort<cr>
 
 " Toggle visibility of preview window
-nnoremap w :view<cr>
+" nnoremap w :view<cr>
 vnoremap w :view<cr>gv
 
 " Open file in new MacVim tab
@@ -388,7 +388,8 @@ nnoremap yf :!printf %c:p | pbcopy<cr>
 nnoremap yn :!printf %f | pbcopy<cr>
 
 " View preview in Quick Look
-nnoremap q :!qlmanage -p %f > /dev/null 2>&1<cr>
+"nnoremap q :!qlmanage -p %f > /dev/null 2>&1<cr>
+nnoremap w :!qlmanage -p %f > /dev/null 2>&1<cr>
 
 " Mappings for faster renaming
 nnoremap I cw<c-a>
@@ -398,7 +399,7 @@ nnoremap A cw
 " Open editor to edit vifmrc and apply settings after returning to vifm
 nnoremap ,c :write | edit $MYVIFMRC | restart<cr>
 " Open MacVim to edit vifmrc
-nnoremap ,C :!mvim --remote-tab-silent $MYVIFMRC &<cr>
+" nnoremap ,C :!mvim --remote-tab-silent $MYVIFMRC &<cr>
 
 " Toggle wrap setting on ,w key
 nnoremap ,w :set wrap!<cr>
@@ -409,10 +410,13 @@ nnoremap <f4> :edit<cr>
 nnoremap <f5> :copy<cr>
 nnoremap <f6> :move<cr>
 nnoremap <f7> :mkdir<space>
-nnoremap <f8> :delete<cr>
+" nnoremap <f8> :delete<cr>
 
+" normal movement by Rex-Diego
 nnoremap = :sync<cr>
 nnoremap <space> t
+nnoremap H :history<cr>
+nnoremap p :zip<cr>
 
 " ------------------------------------------------------------------------------
 
